@@ -302,6 +302,15 @@
       "3:30 - 4:30 pm (Pickleball)"
     ]
   },
+  "Overbrook Community Centre March 11 to 16": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
+    "address": "33 Quill Street Ottawa ON K1K 4E7",
+    "coordinates": {
+      "lat": "45.4254727",
+      "lon": "-75.65684704689782"
+    }
+  },
   "Overbrook Community Centre January 6 to March 29": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
