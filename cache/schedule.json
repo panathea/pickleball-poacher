@@ -127,6 +127,15 @@
       "11 am - 12 pm (Pickleball - family)"
     ]
   },
+  "François Dupuis Recreation Centre March 10 to 14": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
+    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
+    "coordinates": {
+      "lat": "45.45448785",
+      "lon": "-75.46332711436"
+    }
+  },
   "François Dupuis Recreation Centre January 6 to June 22": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
@@ -210,6 +219,15 @@
       "10 - 11 am (Pickleball - rotations)",
       "11 - 12 pm (Pickleball - rotations)"
     ]
+  },
+  "Hunt Club-Riverside Park Community Centre March 10 to 14": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
+    "address": "3320 Paul Anka Drive Ottawa ON K1V 0J9",
+    "coordinates": {
+      "lat": "45.352061500000005",
+      "lon": "-75.67274397046596"
+    }
   },
   "Hunt Club-Riverside Park Community Centre January 6 to March 31": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC",
