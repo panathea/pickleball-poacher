@@ -204,6 +204,15 @@
       "12:50 - 1:50 pm (Pickleball - family (parent with child))"
     ]
   },
+  "Hintonburg Community Centre March 10 to 14": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
+    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
+    "coordinates": {
+      "lat": "45.4036315",
+      "lon": "-75.72428267352942"
+    }
+  },
   "Hintonburg Community Centre January 6 to June 29": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
@@ -249,6 +258,15 @@
       "11:45 am - 12:45 pm (Pickleball - adult - intermediate)",
       "1 - 2 pm (Pickleball - adult - intermediate)"
     ]
+  },
+  "Minto Recreation Complex - Barrhaven March 10 to 16": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
+    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
+    "coordinates": {
+      "lat": "45.252972150000005",
+      "lon": "-75.73453126552369"
+    }
   },
   "Minto Recreation Complex - Barrhaven January 6 to March 9": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
