@@ -532,6 +532,34 @@
       "2:30 - 3:30 pm (Pickleball - rotations)"
     ]
   },
+  "Richcraft Recreation Complex-Kanata March 10 to June 26": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": "45.34042705",
+      "lon": "-75.93049740835963"
+    },
+    "Tuesday": [
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations)"
+    ],
+    "Wednesday": [
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations)"
+    ],
+    "Thursday": [
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations)"
+    ],
+    "Friday": [
+      "7:30 - 8:30 am (Pickleball - rotations)",
+      "8:30 - 9:30 am (Pickleball - rotations)",
+      "9:30 - 10:30 am (Pickleball - rotations)",
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations)"
+    ]
+  },
   "Richelieu Vanier Community Centre January 1 to April 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
