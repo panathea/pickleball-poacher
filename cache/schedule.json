@@ -98,7 +98,7 @@
       "7 - 10 pm (Pickleball)"
     ]
   },
-  "Diane Deans Greenboro Community Centre January 13 to June 20": {
+  "Diane Deans Greenboro Community Centre January 13 to March 14": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
     "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
@@ -119,6 +119,33 @@
     ],
     "Friday": [
       "9:30 - 10:30 am (Pickleball)",
+      "11 am - 12 pm (Pickleball)"
+    ],
+    "Sunday": [
+      "10:30 - 11:30 am (Pickleball)"
+    ]
+  },
+  "Diane Deans Greenboro Community Centre March 15 to June 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
+    "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
+    "coordinates": {
+      "lat": "45.36331905",
+      "lon": "-75.63647823186619"
+    },
+    "Tuesday": [
+      "11:30 am  -  12:30 pm (Pickleball - intermediate)",
+      "1 - 2 pm (Pickleball)*"
+    ],
+    "Wednesday": [
+      "9:30 - 10:30 am (Pickleball - intermediate)",
+      "12:30 - 1:30 pm (Pickleball)"
+    ],
+    "Thursday": [
+      "1 - 2 pm (Pickleball)"
+    ],
+    "Friday": [
+      "9:30 - 10:30 am (Pickleball - intermediate)",
       "11 am - 12 pm (Pickleball)"
     ],
     "Sunday": [
@@ -504,7 +531,7 @@
       "12 pm - 1 pm (Pickleball)"
     ]
   },
-  "Richcraft Recreation Complex-Kanata January 6 to March 9": {
+  "Richcraft Recreation Complex-Kanata January 6 to March 7": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
     "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
@@ -532,7 +559,7 @@
       "2:30 - 3:30 pm (Pickleball - rotations)"
     ]
   },
-  "Richcraft Recreation Complex-Kanata March 10 to June 26": {
+  "Richcraft Recreation Complex-Kanata March 17 to June 26": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
     "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
