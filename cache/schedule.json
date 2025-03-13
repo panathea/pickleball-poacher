@@ -42,7 +42,7 @@
       "2:45 - 3:45 pm (Pickleball - adult)"
     ]
   },
-  "CARDELREC Recreation Complex Goulbourn March 15 to June 22": {
+  "CARDELREC Recreation Complex Goulbourn March 15 to June 27": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/cardelrec",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/cardelrec-recreation-complex-goulbourn",
     "address": "1500 Shea Road Ottawa ON K2S 0B2",
@@ -161,40 +161,7 @@
       "lon": "-75.85628624467708"
     }
   },
-  "Eva James Memorial Community Centre January 6 to March 16": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
-    "address": "65 Stonehaven Drive Ottawa ON K2M 2Y2",
-    "coordinates": {
-      "lat": "45.2898956",
-      "lon": "-75.85628624467708"
-    },
-    "Monday": [
-      "11:15 am - 12:15 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "1:10 - 2:10 pm (Pickleball)",
-      "2:10 - 3:10 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)"
-    ],
-    "Friday": [
-      "1 - 2 pm (Pickleball)",
-      "2 - 3pm (Pickleball)"
-    ],
-    "Saturday": [
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Sunday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball - family)"
-    ]
-  },
-  "Eva James Memorial Community Centre March 17 to June 20": {
+  "Eva James Memorial Community Centre March 17 to May 31": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
     "address": "65 Stonehaven Drive Ottawa ON K2M 2Y2",
@@ -460,20 +427,20 @@
     },
     "Monday": [
       "10:30 - 11:30 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)*",
+      "11:30 am - 12:30 pm (Pickleball)",
       "12:30 - 1:30 pm (Pickleball)",
       "1:30 - 2:30 pm (Pickleball)",
       "3:30 - 4:30 pm (Pickleball)"
     ],
     "Wednesday": [
       "10:30 - 11:30 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)*",
+      "11:30 am - 12:30 pm (Pickleball)",
       "12:30 - 1:30 pm (Pickleball)",
       "1:30 - 2:30 pm (Pickleball)"
     ],
     "Friday": [
       "10:30 - 11:30 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)*",
+      "11:30 am - 12:30 pm (Pickleball)",
       "12:30 - 1:30 pm (Pickleball)",
       "1:30 - 2:30 pm (Pickleball)",
       "3:30 - 4:30 pm (Pickleball)"
