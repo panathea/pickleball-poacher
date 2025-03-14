@@ -194,6 +194,34 @@
       "11 am - 12 pm (Pickleball - family)"
     ]
   },
+  "Eva James Memorial Community Centre June 1 to 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
+    "address": "65 Stonehaven Drive Ottawa ON K2M 2Y2",
+    "coordinates": {
+      "lat": "45.2898956",
+      "lon": "-75.85628624467708"
+    },
+    "Monday": [
+      "11:15 am - 12:15 pm (Pickleball)"
+    ],
+    "Tuesday": [
+      "1:10 - 2:10 pm (Pickleball)"
+    ],
+    "Thursday": [
+      "10 - 11 am (Pickleball)"
+    ],
+    "Friday": [
+      "1 - 2 pm (Pickleball)"
+    ],
+    "Saturday": [
+      "1 - 2 pm (Pickleball)"
+    ],
+    "Sunday": [
+      "10 - 11 am (Pickleball)",
+      "11 am - 12 pm (Pickleball - family)"
+    ]
+  },
   "François Dupuis Recreation Centre March 10 to 14": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
@@ -348,6 +376,47 @@
     }
   },
   "Minto Recreation Complex - Barrhaven January 6 to March 9": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
+    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
+    "coordinates": {
+      "lat": "45.252972150000005",
+      "lon": "-75.73453126552369"
+    },
+    "Monday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)"
+    ],
+    "Tuesday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)"
+    ],
+    "Wednesday": [
+      "9 - 10 am (Pickleball)",
+      "10:05 - 11:05 am (Pickleball)",
+      "11:10 am - 12:10 pm (Pickleball)",
+      "12:15 - 1:15 pm (Pickleball)",
+      "1:20 - 2:20 pm (Pickleball)",
+      "2:25 - 3:25 pm (Pickleball)"
+    ],
+    "Thursday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)"
+    ],
+    "Friday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)"
+    ]
+  },
+  "Minto Recreation Complex - Barrhaven March 17 to June 22": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
     "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
