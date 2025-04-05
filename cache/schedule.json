@@ -11,6 +11,15 @@
       "9:30 am - 2:15 pm (Pickleball)"
     ]
   },
+  "CARDELREC Recreation Complex Goulbourn April 18 to 21": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/cardelrec",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/cardelrec-recreation-complex-goulbourn",
+    "address": "1500 Shea Road Ottawa ON K2S 0B2",
+    "coordinates": {
+      "lat": "45.263135000000005",
+      "lon": "-75.90787332212767"
+    }
+  },
   "CARDELREC Recreation Complex Goulbourn March 15 to June 27": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/cardelrec",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/cardelrec-recreation-complex-goulbourn",
@@ -231,6 +240,15 @@
     "Sunday": [
       "12:50 - 1:50 pm (Pickleball - family (parent with child))"
     ]
+  },
+  "Hintonburg Community Centre April 18 to 21": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
+    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
+    "coordinates": {
+      "lat": "45.4036315",
+      "lon": "-75.72428267352942"
+    }
   },
   "Hintonburg Community Centre January 6 to June 29": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
