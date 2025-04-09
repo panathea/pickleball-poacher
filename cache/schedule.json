@@ -578,7 +578,24 @@
       "10:30 - 11:30 am (Pickleball - adult)"
     ]
   },
-  "South Fallingbrook Community Centre January 6 to March 31": {
+  "South Fallingbrook Community Centre April 18 to 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
+    "address": "998 Valin Street Ottawa ON K4A 4B5",
+    "coordinates": {
+      "lat": "45.471599850000004",
+      "lon": "-75.46236009196846"
+    },
+    "Tuesday": [
+      "8 - 9 am (Pickleball - adult)*",
+      "9 - 10 am (Pickleball - adult)*",
+      "10:15 - 11:15 am (Pickleball - adult)*",
+      "11:15 am - 12:15 pm (Pickleball - adult)*",
+      "1 - 2 pm (Pickleball - adult)*",
+      "2 - 3 pm (Pickleball - adult)*"
+    ]
+  },
+  "South Fallingbrook Community Centre January 6 to May 16": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
     "address": "998 Valin Street Ottawa ON K4A 4B5",
