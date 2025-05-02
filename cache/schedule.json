@@ -1,19 +1,4 @@
 {
-  "Alexander Community Centre": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/alexandercc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/alexander-community-centre",
-    "address": "960 Silver Street Ottawa ON K1Z 6H5",
-    "coordinates": {
-      "lat": "45.38056795",
-      "lon": "-75.73143368094837"
-    },
-    "Monday": [
-      "9:30 - 10:30 am (Pickleball)",
-      "10:45 - 11:45 am (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1:15 - 2:15 pm (Pickleball)"
-    ]
-  },
   "CARDELREC Recreation Complex Goulbourn March 15 to June 27": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/cardelrec",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/cardelrec-recreation-complex-goulbourn",
@@ -109,8 +94,8 @@
       "2:10 - 3:10 pm (Pickleball)"
     ],
     "Thursday": [
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)"
+      "10:10 - 11:10 am (Pickleball)*",
+      "11:10 am - 12:10 pm (Pickleball)*"
     ],
     "Friday": [
       "1 - 2 pm (Pickleball)",
@@ -141,7 +126,7 @@
       "1:10 - 2:10 pm (Pickleball)"
     ],
     "Thursday": [
-      "10 - 11 am (Pickleball)"
+      "10:10 - 11:10 am (Pickleball)*"
     ],
     "Friday": [
       "1 - 2 pm (Pickleball)"
@@ -398,46 +383,6 @@
       "9:30 - 10:30 am (Pickleball - rotations)",
       "1:30 - 2:30 pm (Pickleball - rotations)",
       "2:30 - 3:30 pm (Pickleball - rotations)"
-    ]
-  },
-  "Richelieu Vanier Community Centre April 1 to 30": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
-    "address": "300 Des Pères-Blancs Avenue Ottawa ON K1L 7L5",
-    "coordinates": {
-      "lat": "45.4438035",
-      "lon": "-75.6599939"
-    },
-    "Monday": [
-      "1 - 2 pm (Pickleball 18+ - recreational play)",
-      "2 - 3 pm (Pickleball 18+ - recreational play)",
-      "3 - 4 pm (Pickleball 18+ - recreational play)",
-      "4  -  5 pm (Pickleball 18+ - recreational play)"
-    ],
-    "Tuesday": [
-      "9:30 - 10:30 am (Pickleball 18+ - recreational play)",
-      "10:30 - 11:30 am (Pickleball 18+ - recreational play)",
-      "11:30 am - 12:30 pm (Pickleball 18+ - recreational play)",
-      "12:30 - 1:30 pm (Pickleball 18+ - recreational play)",
-      "1:30 - 2:30 pm (Pickleball 18+ - recreational play)",
-      "2:30 - 3:30 pm (Pickleball 18+ - recreational play)",
-      "3:30 - 4:30 pm (Pickleball 18+ - recreational play)"
-    ],
-    "Wednesday": [
-      "9:30 - 10:30 am (Pickleball 18+ - recreational play)",
-      "10:30 - 11:30 am (Pickleball 18+ - recreational play)",
-      "11:30 am - 12:30 pm (Pickleball 18+ - recreational play)",
-      "12:30 - 1:30 pm (Pickleball 18+ - recreational play)",
-      "1:30 - 2:30 pm (Pickleball 18+ - recreational play)",
-      "2:30 - 3:30 pm (Pickleball 18+ - recreational play)",
-      "3:30 - 4:30 pm (Pickleball 18+ - recreational play)",
-      "4:30 - 5:30 pm (Pickleball 18+ - recreational play)"
-    ],
-    "Friday": [
-      "5:30 - 6:30 pm (Pickleball 18+ - recreational play)",
-      "6:30 - 7:30 pm (Pickleball 18+ - recreational play)",
-      "7:30 - 8:30 pm (Pickleball 18+ - recreational play)",
-      "8:30 - 9:30 pm (Pickleball 18+ - recreational play)"
     ]
   },
   "Richelieu Vanier Community Centre May 1 to 31": {
