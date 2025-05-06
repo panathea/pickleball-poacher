@@ -468,6 +468,15 @@
       "10:30 - 11:30 am (Pickleball - adult)"
     ]
   },
+  "South Fallingbrook Community Centre May 17 to 19": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
+    "address": "998 Valin Street Ottawa ON K4A 4B5",
+    "coordinates": {
+      "lat": "45.471599850000004",
+      "lon": "-75.46236009196846"
+    }
+  },
   "South Fallingbrook Community Centre January 6 to May 16": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
