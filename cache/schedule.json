@@ -141,6 +141,21 @@
       "11 am - 12 pm (Pickleball - family)"
     ]
   },
+  "François Dupuis Recreation Centre May 17 to 18": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
+    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
+    "coordinates": {
+      "lat": "45.45448785",
+      "lon": "-75.46332711436"
+    },
+    "Monday": [
+      "2 - 3 pm (Pickleball 16+)*"
+    ],
+    "Tuesday": [
+      "12:50 - 1:50 pm (Pickleball - family (parent with child))*"
+    ]
+  },
   "François Dupuis Recreation Centre January 6 to June 22": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
@@ -150,48 +165,39 @@
       "lon": "-75.46332711436"
     },
     "Monday": [
-      "7:30 - 8:30 am (Pickleball intermediate 16+)",
       "8:40 - 9:40 am (Pickleball intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
       "1:20 - 2:20 pm (Pickleball 50+)",
-      "2:30 - 3:30 pm (Pickleball 50+)",
       "6:40 - 7:40 pm (Pickleball 16+)",
       "7:50 - 8:50 pm (Pickleball 16+)"
     ],
     "Tuesday": [
-      "7:30 - 8:30 am (Pickleball 50+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball intermediate 16+)",
-      "2:30 - 3:30 pm (Pickleball intermediate 16+)"
+      "1:20 - 2:20 pm (Pickleball intermediate 16+)"
     ],
     "Wednesday": [
-      "7:30 - 8:30 am (Pickleball intermediate 16+)",
       "8:40 - 9:40 am (Pickleball intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball 50+)",
-      "2:30 - 3:30 pm (Pickleball 50+)"
+      "1:20 - 2:20 pm (Pickleball 50+)"
     ],
     "Thursday": [
-      "7:30 - 8:30 am (Pickleball intermediate 16+)",
       "8:40 - 9:40 am (Pickleball intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)"
     ],
     "Friday": [
-      "7:30 - 8:30 am (Pickleball 50+)",
       "8:40 - 9:40 am (Pickleball 50+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball intermediate 16+)",
-      "2:30 - 3:30 pm (Pickleball intermediate 16+)"
+      "1:20 - 2:20 pm (Pickleball intermediate 16+)"
     ],
     "Saturday": [
       "2 - 3 pm (Pickleball 16+)"
