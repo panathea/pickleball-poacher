@@ -78,15 +78,6 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
-  "Eva James Memorial Community Centre May 17 to 19": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
-    "address": "65 Stonehaven Drive Ottawa ON K2M 2Y2",
-    "coordinates": {
-      "lat": "45.2898956",
-      "lon": "-75.85628624467708"
-    }
-  },
   "Eva James Memorial Community Centre March 17 to May 31": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
@@ -139,21 +130,6 @@
     "Sunday": [
       "10 - 11 am (Pickleball)",
       "11 am - 12 pm (Pickleball - family)"
-    ]
-  },
-  "François Dupuis Recreation Centre May 17 to 18": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
-    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
-    "coordinates": {
-      "lat": "45.45448785",
-      "lon": "-75.46332711436"
-    },
-    "Monday": [
-      "2 - 3 pm (Pickleball 16+)*"
-    ],
-    "Tuesday": [
-      "12:50 - 1:50 pm (Pickleball - family (parent with child))*"
     ]
   },
   "François Dupuis Recreation Centre January 6 to June 22": {
@@ -288,15 +264,6 @@
       "1:55 - 2:55 pm (Pickleball)",
       "3 - 4 pm (Pickleball)"
     ]
-  },
-  "Nepean Sportsplex May 17 to 19": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
-    "address": "1701 Woodroffe Avenue Ottawa ON K2G 1W2",
-    "coordinates": {
-      "lat": "45.3271242",
-      "lon": "-75.7452920352786"
-    }
   },
   "Nepean Sportsplex March 17 to June 29": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
@@ -476,16 +443,7 @@
       "10:30 - 11:30 am (Pickleball - adult)"
     ]
   },
-  "South Fallingbrook Community Centre May 17 to 19": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
-    "address": "998 Valin Street Ottawa ON K4A 4B5",
-    "coordinates": {
-      "lat": "45.471599850000004",
-      "lon": "-75.46236009196846"
-    }
-  },
-  "South Fallingbrook Community Centre January 6 to May 16": {
+  "South Fallingbrook Community Centre May 20 to June 13": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
     "address": "998 Valin Street Ottawa ON K4A 4B5",
@@ -493,20 +451,9 @@
       "lat": "45.471599850000004",
       "lon": "-75.46236009196846"
     },
-    "Thursday": [
-      "6 - 7 pm (Pickleball - adult)",
-      "7 - 8 pm (Pickleball - adult)",
-      "8:15 - 9:15 pm (Pickleball - adult)"
-    ],
     "Saturday": [
       "4:30 - 5:30 pm (Pickleball - adult)",
       "5:30 - 6:30 pm (Pickleball - adult)"
-    ],
-    "Sunday": [
-      "1:45 - 2:45 pm (Pickleball - adult)",
-      "2:45 - 3:45 pm (Pickleball - adult)",
-      "4 - 5 pm (Pickleball - adult)",
-      "5 - 6 pm (Pickleball - adult)"
     ]
   }
 }
