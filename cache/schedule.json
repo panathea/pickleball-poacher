@@ -117,6 +117,7 @@
       "11 am - 12 pm (Pickleball 50+)*",
       "12:10 - 1:10 pm (Pickleball 50+)*",
       "1:20 - 2:20 pm (Pickleball 50+)*",
+      "5:30 - 6:30 pm (Pickleball 16+)*",
       "6:40 - 7:40 pm (Pickleball 16+)*",
       "7:50 - 8:50 pm (Pickleball 16+)*"
     ],
@@ -145,12 +146,6 @@
       "11 am - 12 pm (Pickleball 50+)*",
       "12:10 - 1:10 pm (Pickleball 50+)*",
       "1:20 - 2:20 pm (Pickleball intermediate 16+)*"
-    ],
-    "Saturday": [
-      "2 - 3 pm (Pickleball 16+)*"
-    ],
-    "Sunday": [
-      "12:50 - 1:50 pm (Pickleball - family (parent with child))*"
     ]
   },
   "Hintonburg Community Centre January 6 to June 29": {
@@ -358,7 +353,7 @@
       "10:30 - 11:30 am (Pickleball - adult)*"
     ]
   },
-  "Routhier Community Centre January 5 to June 22": {
+  "Routhier Community Centre January 5 to June 16": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
     "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
