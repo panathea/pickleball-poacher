@@ -78,6 +78,18 @@
       "10:30 - 11:30 am (Pickleball)*"
     ]
   },
+  "Diane Deans Greenboro Community Centre June 30 to August 31": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
+    "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
+    "coordinates": {
+      "lat": "45.3633040",
+      "lon": "-75.6354695"
+    },
+    "Sunday": [
+      "10:30 am - 12 pm (Pickleball)*"
+    ]
+  },
   "Eva James Memorial Community Centre June 1 to 20": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
@@ -229,6 +241,19 @@
       "12:50 - 1:50 pm (Pickleball)*",
       "1:55 - 2:55 pm (Pickleball)*",
       "3 - 4 pm (Pickleball)*"
+    ]
+  },
+  "Minto Recreation Complex - Barrhaven June 23 to August 31": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
+    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
+    "coordinates": {
+      "lat": "45.2529722",
+      "lon": "-75.7345312"
+    },
+    "Saturday": [
+      "6 - 7 pm (Pickleball)*",
+      "7:05 - 8:05 pm (Pickleball)*"
     ]
   },
   "Nepean Sportsplex March 17 to June 29": {
