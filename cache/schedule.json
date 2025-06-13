@@ -360,6 +360,20 @@
       "2:30 - 3:30 pm (Pickleball - rotations)"
     ]
   },
+  "Richcraft Recreation Complex-Kanata June 30 to August 31": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": "45.3404271",
+      "lon": "-75.9304974"
+    },
+    "Tuesday": [
+      "1:30 - 2:30 pm (Pickleball - Rotations)",
+      "2:30 - 3:30 pm (Pickleball - Rotations)",
+      "6:00 - 7:00 pm (Pickleball - Rotations)*"
+    ]
+  },
   "Rideauview Community Centre March 17 to June 20": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/rideauviewcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/rideauview-community-centre",
