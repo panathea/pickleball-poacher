@@ -51,7 +51,7 @@
       "7 - 10 pm (Pickleball)"
     ]
   },
-  "Diane Deans Greenboro Community Centre March 15 to June 29": {
+  "Diane Deans Greenboro Community Centre March 15 to June 20": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
     "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
@@ -76,18 +76,6 @@
     ],
     "Sunday": [
       "10:30 - 11:30 am (Pickleball)"
-    ]
-  },
-  "Diane Deans Greenboro Community Centre June 30 to August 31": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
-    "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
-    "coordinates": {
-      "lat": "45.3633040",
-      "lon": "-75.6354695"
-    },
-    "Sunday": [
-      "10:30 am - 12 pm (Pickleball)"
     ]
   },
   "Eva James Memorial Community Centre June 1 to 20": {
@@ -157,7 +145,7 @@
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball intermediate 16+)"
+      "1:20 - 2:20 pm (Pickleball 50+)"
     ]
   },
   "Hintonburg Community Centre January 6 to June 29": {
@@ -382,9 +370,9 @@
       "lon": "-75.9304974"
     },
     "Tuesday": [
-      "1:30 - 2:30 pm (Pickleball - Rotations)",
-      "2:30 - 3:30 pm (Pickleball - Rotations)",
-      "6:00 - 7:00 pm (Pickleball - Rotations)*"
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations)",
+      "6 - 7 pm (Pickleball - rotations)*"
     ]
   },
   "Rideauview Community Centre March 17 to June 20": {
