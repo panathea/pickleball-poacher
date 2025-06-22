@@ -78,31 +78,6 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
-  "Eva James Memorial Community Centre June 1 to 20": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/eva-james-memorial-community-centre",
-    "address": "65 Stonehaven Drive Ottawa ON K2M 2Y2",
-    "coordinates": {
-      "lat": "45.2905050",
-      "lon": "-75.8567995"
-    },
-    "Monday": [
-      "11:15 am - 12:15 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "10:10 - 11:10 am (Pickleball)"
-    ],
-    "Friday": [
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Saturday": [
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Sunday": [
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball - family)"
-    ]
-  },
   "François Dupuis Recreation Centre January 6 to June 22": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
@@ -373,24 +348,6 @@
       "1:30 - 2:30 pm (Pickleball - rotations)",
       "2:30 - 3:30 pm (Pickleball - rotations)",
       "6 - 7 pm (Pickleball - rotations)*"
-    ]
-  },
-  "Rideauview Community Centre March 17 to June 20": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/rideauviewcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/rideauview-community-centre",
-    "address": "4310 Shoreline Drive Ottawa ON K1V 1N4",
-    "coordinates": {
-      "lat": "45.2772444",
-      "lon": "-75.6870068"
-    },
-    "Tuesday": [
-      "9:30 - 10:30 am (Pickleball - adult)"
-    ],
-    "Wednesday": [
-      "12 pm - 1 pm (Pickleball - adult)"
-    ],
-    "Thursday": [
-      "10:30 - 11:30 am (Pickleball - adult)"
     ]
   }
 }
