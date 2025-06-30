@@ -8,7 +8,7 @@
       "lon": "-75.6354695"
     },
     "Tuesday": [
-      "7:15 - 8:15 pm (Pickleball)*"
+      "7:15 - 8:15 pm (Pickleball)*"
     ]
   },
   "Hintonburg Community Centre January 6 to June 29": {
@@ -91,50 +91,6 @@
       "2:30 - 3:30 pm (Pickleball)",
       "3:30 - 4:30 pm (Pickleball)",
       "4:30 - 5:30 pm (Pickleball)"
-    ]
-  },
-  "Overbrook Community Centre March 30 to June 28": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
-    "address": "33 Quill Street Ottawa ON K1K 4E7",
-    "coordinates": {
-      "lat": "45.4254727",
-      "lon": "-75.6568470"
-    },
-    "Monday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Wednesday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Friday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
     ]
   },
   "Richcraft Recreation Complex-Kanata March 17 to June 29": {
