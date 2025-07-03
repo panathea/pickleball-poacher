@@ -36,19 +36,5 @@
       "6 - 7 pm (Pickleball)",
       "7:05 - 8:05 pm (Pickleball)"
     ]
-  },
-  "Richcraft Recreation Complex-Kanata June 30 to August 31": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
-    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
-    "coordinates": {
-      "lat": "45.3404271",
-      "lon": "-75.9304974"
-    },
-    "Tuesday": [
-      "1:30 - 2:30 pm (Pickleball - rotations)",
-      "2:30 - 3:30 pm (Pickleball - rotations)",
-      "6 - 7 pm (Pickleball - rotations)"
-    ]
   }
 }
