@@ -125,7 +125,7 @@ export default function ScheduleForDay({
                 target="_blank"
               >
                 Register{' '}
-                {warnRegistration && !location.name.includes('RA Centre') && (
+                {warnRegistration && !location.name.includes('RA Centre') && !location.name.includes('OFSL') && (
                   <>
                     at 6 pm{' '}
                     {registrationDay === today ? 'today' : registrationDay}*

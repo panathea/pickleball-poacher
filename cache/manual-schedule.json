@@ -11,5 +11,15 @@
     "Wednesday": ["1 - 3 pm (Pickleball - All Levels)"],
     "Friday": ["10 am - 12 pm (Pickleball - Novice)"],
     "Saturday": ["10 am - 12 pm (Pickleball - Novice)"]
+  },
+  "OFSL (not city-run)": {
+    "link": "https://ofsl.ca/#/leagues?sport=Pickleball",
+    "home": "https://ofsl.ca/#/leagues?sport=Pickleball",
+    "address": "50 Maple Lane Ottawa ON K1M 0H1",
+    "coordinates": {
+      "lat": 45.4715999,
+      "lon": -75.4623601
+    },
+    "Saturday": ["9:30 am - 12 pm (Pickleball - Intermediate)", "12 pm - 2:30 pm (Pickleball - Beginner)", "2:30 pm - 4:45 pm (Pickleball - Novice)"]
   }
 }
