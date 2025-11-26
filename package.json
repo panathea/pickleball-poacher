@@ -6,31 +6,31 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cache-schedule": "node ./scrape-schedule.js -c -f json -o ./cache/schedule.json"
+    "cache-schedule": "node ./scrape-schedule.js -c -f json -o ./cache/schedule.json -d"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/morinted/pickleball-poacher.git"
+    "url": "git+https://github.com/panathea/pickleball-poacher.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/morinted/pickleball-poacher/issues"
+    "url": "https://github.com/panathea/pickleball-poacher/issues"
   },
-  "homepage": "https://github.com/morinted/pickleball-poacher#readme",
+  "homepage": "https://github.com/panathea/pickleball-poacher#readme",
   "dependencies": {
     "args": "^5.0.3",
-    "axios": "^0.24.0",
+    "axios": "^1.13.2",
     "cheerio": "^1.0.0-rc.10",
     "conf": "^10.0.3",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.34",
     "node-fetch": "^3.1.0",
-    "puppeteer": "^11.0.0",
-    "puppeteer-extra": "^3.2.3",
-    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
-    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "puppeteer": "^23.11.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "yaml": "^2.1.1",
     "yargs": "^17.2.1"
   },
