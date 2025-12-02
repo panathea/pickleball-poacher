@@ -147,8 +147,26 @@
       "11 am - 12 pm (Pickleball)*"
     ]
   },
+  "Hunt Club-Riverside Park Community Centre December 20 to 28": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
+    "address": "3320 Paul Anka Drive Ottawa ON K1V 0J9",
+    "coordinates": {
+      "lat": 45.3514206,
+      "lon": -75.6727102
+    }
+  },
+  "Hunt Club-Riverside Park Community Centre December 29 to January 4": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
+    "address": "3320 Paul Anka Drive Ottawa ON K1V 0J9",
+    "coordinates": {
+      "lat": 45.3514206,
+      "lon": -75.6727102
+    }
+  },
   "Hunt Club-Riverside Park Community Centre September 7 to December 19": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC",
+    "link": "https://reservation.frontdesksuite.ca/rcfs/evajamescc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
     "address": "3320 Paul Anka Drive Ottawa ON K1V 0J9",
     "coordinates": {
@@ -210,7 +228,7 @@
     ]
   },
   "Nepean Sportsplex September 2 to December 18": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
+    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex/",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
     "address": "1701 Woodroffe Avenue Ottawa ON K2G 1W2",
     "coordinates": {
@@ -326,37 +344,6 @@
       "9:30 - 10:30 am (Pickleball - rotations)*",
       "1:30 - 2:30 pm (Pickleball - rotations)*",
       "2:30 - 3:30 pm (Pickleball - rotations)*"
-    ]
-  },
-  "Richelieu Vanier Community Centre September 29 to November 30": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
-    "address": "300 Des Pères-Blancs Avenue Ottawa ON K1L 7L5",
-    "coordinates": {
-      "lat": 45.4438035,
-      "lon": -75.6599939
-    },
-    "Monday": [
-      "1 - 2 pm (Pickleball 18+ - recreational play)*",
-      "2 - 3 pm (Pickleball 18+ - recreational play)*",
-      "3 - 4 pm (Pickleball 18+ - recreational play)*",
-      "4  -  5 pm (Pickleball 18+ - recreational play)*"
-    ],
-    "Wednesday": [
-      "9:30 - 10:30 am (Pickleball 18+ - recreational play)*",
-      "10:30 - 11:30 am (Pickleball 18+ - recreational play)*",
-      "11:30 am - 12:30 pm (Pickleball 18+ - recreational play)*",
-      "12:30 - 1:30 pm (Pickleball 18+ - recreational play)*",
-      "1:30 - 2:30 pm (Pickleball 18+ - recreational play)*",
-      "2:30 - 3:30 pm (Pickleball 18+ - recreational play)*",
-      "3:30 - 4:30 pm (Pickleball 18+ - recreational play)*",
-      "4:30 - 5:30 pm (Pickleball 18+ - recreational play)*"
-    ],
-    "Friday": [
-      "5:30 - 6:30 pm (Pickleball 18+ - recreational play)*",
-      "6:30 - 7:30 pm (Pickleball 18+ - recreational play)*",
-      "7:30 - 8:30 pm (Pickleball 18+ - recreational play)*",
-      "8:30 - 9:30 pm (Pickleball 18+ - recreational play)*"
     ]
   },
   "Richelieu Vanier Community Centre December 1, 2025 to April 30, 2026": {
