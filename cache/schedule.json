@@ -353,6 +353,24 @@
       "8:15 - 9:15 pm (Pickleball - family)"
     ]
   },
+  "Richcraft Recreation Complex-Kanata December 22 to 28": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": 45.3411181,
+      "lon": -75.9301423
+    }
+  },
+  "Richcraft Recreation Complex-Kanata December 29 to January 4": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": 45.3411181,
+      "lon": -75.9301423
+    }
+  },
   "Richcraft Recreation Complex-Kanata September 8 to December 20": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
