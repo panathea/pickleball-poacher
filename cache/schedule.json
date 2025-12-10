@@ -25,6 +25,24 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
+  "François Dupuis Recreation Centre December 20 to 28": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
+    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
+    "coordinates": {
+      "lat": 45.4542983,
+      "lon": -75.4638702
+    }
+  },
+  "François Dupuis Recreation Centre December 29 to January 4": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
+    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
+    "coordinates": {
+      "lat": 45.4542983,
+      "lon": -75.4638702
+    }
+  },
   "François Dupuis Recreation Centre September 2 to December 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
@@ -481,7 +499,25 @@
       "9:30 - 11:30 am (Pickleball - Adult)"
     ]
   },
-  "South Fallingbrook Community Centre October 14 to December 19": {
+  "South Fallingbrook Community Centre December 22 to 28": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
+    "address": "998 Valin Street Ottawa ON K4A 4B5",
+    "coordinates": {
+      "lat": 45.4715999,
+      "lon": -75.4623601
+    }
+  },
+  "South Fallingbrook Community Centre December 29 to January 4": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
+    "address": "998 Valin Street Ottawa ON K4A 4B5",
+    "coordinates": {
+      "lat": 45.4715999,
+      "lon": -75.4623601
+    }
+  },
+  "South Fallingbrook Community Centre October 14 to December 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
     "address": "998 Valin Street Ottawa ON K4A 4B5",
