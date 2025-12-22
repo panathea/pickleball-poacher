@@ -104,41 +104,23 @@
       "12:50 - 1:50 pm (Pickleball family - parent with child)"
     ]
   },
-  "Heron Road Community Centre November 17 to December 19": {
+  "Heron Road Community Centre December 22 to 28": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
     "address": "1480 Heron Road Ottawa ON K1V 6A5",
     "coordinates": {
       "lat": 45.37887,
       "lon": -75.6539905
-    },
-    "Monday": [
-      "10 -10:55 am (Pickleball - older adult)",
-      "11 - 11:55 am (Pickleball - older adult)",
-      "12 pm - 12:55 pm (Pickleball - older adult)",
-      "1 - 1:55 pm (Pickleball - older adult)"
-    ],
-    "Tuesday": [
-      "10 -10:55 am (Pickleball - older adult)",
-      "11 - 11:55 am (Pickleball - older adult)",
-      "12 pm - 12:55 pm (Pickleball - older adult)",
-      "1 - 1:55 pm (Pickleball - older adult)"
-    ],
-    "Wednesday": [
-      "10 -10:55 am (Pickleball - older adult)",
-      "11 - 11:55 am (Pickleball - older adult)",
-      "12 pm - 12:55 pm (Pickleball - older adult)"
-    ],
-    "Thursday": [
-      "10 -10:55 am (Pickleball - older adult)",
-      "11 - 11:55 am (Pickleball - older adult)",
-      "12 pm - 12:55 pm (Pickleball - older adult)"
-    ],
-    "Friday": [
-      "10 -10:55 am (Pickleball - older adult)",
-      "11 - 11:55 am (Pickleball - older adult)",
-      "12 pm - 12:55 pm (Pickleball - older adult)"
-    ]
+    }
+  },
+  "Heron Road Community Centre December 29 to January 2": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
+    "address": "1480 Heron Road Ottawa ON K1V 6A5",
+    "coordinates": {
+      "lat": 45.37887,
+      "lon": -75.6539905
+    }
   },
   "Hintonburg Community Centre September 2 to December 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
@@ -634,25 +616,25 @@
       "lon": -75.6874545
     },
     "Tuesday": [
-      "9:15 - 10:15 am (Pickleball - adult)*",
-      "10:15 - 11:15 am (Pickleball - adult)*",
-      "11:15 - 12:15 pm (Pickleball - adult)*"
+      "9:15 - 10:15 am (Pickleball - adult)",
+      "10:15 - 11:15 am (Pickleball - adult)",
+      "11:15 - 12:15 pm (Pickleball - adult)"
     ],
     "Wednesday": [
-      "9:15 - 10:15 am (Pickleball - adult)*",
-      "10:15 - 11:15 am (Pickleball - adult)*",
-      "11:15 - 12:15 pm (Pickleball - adult)*",
-      "12:15 - 1:15 pm (Pickleball - adult)*"
+      "9:15 - 10:15 am (Pickleball - adult)",
+      "10:15 - 11:15 am (Pickleball - adult)",
+      "11:15 - 12:15 pm (Pickleball - adult)",
+      "12:15 - 1:15 pm (Pickleball - adult)"
     ],
     "Thursday": [
-      "9:15 - 10:15 am (Pickleball - adult)*",
-      "10:15 - 11:15 am (Pickleball - adult)*",
-      "11:15 - 12:15 pm (Pickleball - adult)*",
-      "12:15 - 1:15 pm (Pickleball - adult)*"
+      "9:15 - 10:15 am (Pickleball - adult)",
+      "10:15 - 11:15 am (Pickleball - adult)",
+      "11:15 - 12:15 pm (Pickleball - adult)",
+      "12:15 - 1:15 pm (Pickleball - adult)"
     ],
     "Friday": [
-      "12 pm - 1 pm (Pickleball - adult)*",
-      "1 - 2 pm (Pickleball - adult)*"
+      "12 pm - 1 pm (Pickleball - adult)",
+      "1 - 2 pm (Pickleball - adult)"
     ]
   },
   "Routhier Community Centre September 1, 2025 to June 17, 2026": {
