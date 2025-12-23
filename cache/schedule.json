@@ -1,5 +1,5 @@
 {
-  "Diane Deans Greenboro Community Centre January 14 to March 15": {
+  "Diane Deans Greenboro Community Centre January 12 to March 15": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
     "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
@@ -229,47 +229,6 @@
       "lon": -75.7313152
     }
   },
-  "Minto Recreation Complex - Barrhaven December 3 to 21": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
-    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
-    "coordinates": {
-      "lat": 45.2528846,
-      "lon": -75.7313152
-    },
-    "Monday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)",
-      "5:45 - 6:45 pm (Pickleball)"
-    ],
-    "Wednesday": [
-      "9 - 10 am (Pickleball)",
-      "10:15 - 11:15 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)",
-      "2:05 - 3:05 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Friday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ]
-  },
   "Minto Recreation Complex - Barrhaven January 5 to 9": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
@@ -434,7 +393,7 @@
       "4:30 - 5:30 pm (Pickleball)"
     ]
   },
-  "Overbrook Community Centre September 2 to December 20": {
+  "Overbrook Community Centre January 5 to June 19": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
     "address": "33 Quill Street Ottawa ON K1K 4E7",
@@ -447,9 +406,7 @@
       "10 - 11 am (Pickleball)",
       "11 am - 12 pm (Pickleball)",
       "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)",
-      "8 - 9 pm (Pickleball)",
-      "9 - 10 pm (Pickleball)"
+      "1 - 2 pm (Pickleball)"
     ],
     "Tuesday": [
       "9 - 10 am (Pickleball)",
