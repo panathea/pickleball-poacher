@@ -187,10 +187,10 @@ const fetchCoordinates = async (address) => {
   // Remove postal code as OSM has many disagreements with the source.
   address = addressWithoutPostalCode(address)
   if (coordinatesCache[address]) {
-    log('using coordinates cache')
+    log('Using coordinates cache for', address)
     return coordinatesCache[address]
   }
-  log('not using coordinates cache')
+  log('Not using coordinates cache for', address)
   const addressQuery = encodeURI(address.replace(/\s+/g, '+'))
 
   console.log('Fetching coordinates for', `https://nominatim.openstreetmap.org/search?q=${addressQuery}&format=jsonv2`)
