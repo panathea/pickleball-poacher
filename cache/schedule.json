@@ -25,6 +25,20 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
+  "South Fallingbrook Community Centre October 14 to December 19": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
+    "address": "998 Valin Street Ottawa ON K4A 4B5",
+    "coordinates": {
+      "lat": 45.4715999,
+      "lon": -75.4623601
+    },
+    "Thursday": [
+      "6 - 7 pm (Pickleball - adult)",
+      "7 - 8 pm (Pickleball - adult)",
+      "8:15 - 9:15 pm (Pickleball - adult)"
+    ]
+  },
   "François Dupuis Recreation Centre January 5 to June 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
