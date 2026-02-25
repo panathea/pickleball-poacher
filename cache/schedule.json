@@ -34,8 +34,8 @@
       "lon": -75.4638702
     },
     "Monday": [
-      "7:30 - 8:30 am (Pickleball - intermediate)",
-      "8:40 - 9:40 am (Pickleball - intermediate)",
+      "7:30 - 8:30 am (Pickleball - Intermediate 16+)",
+      "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
@@ -43,19 +43,19 @@
       "2:30 - 3:30 pm (Pickleball 50+)",
       "5:30 - 6:30 pm (Pickleball 16+)",
       "6:40 - 7:40 pm (Pickleball 16+)",
-      "7:50 - 8:50 pm (Pickleball - intermediate)"
+      "7:50 - 8:50 pm (Pickleball - Intermediate 16+)"
     ],
     "Tuesday": [
       "7:30 - 8:30 am (Pickleball 50+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball - intermediate)",
-      "2:30 - 3:30 pm (Pickleball - intermediate)"
+      "1:20 - 2:20 pm (Pickleball - Intermediate 16+)",
+      "2:30 - 3:30 pm (Pickleball - Intermediate 16+)"
     ],
     "Wednesday": [
-      "7:30 - 8:30 am (Pickleball - intermediate)",
-      "8:40 - 9:40 am (Pickleball - intermediate)",
+      "7:30 - 8:30 am (Pickleball - Intermediate 16+)",
+      "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
@@ -63,12 +63,12 @@
       "2:30 - 3:30 pm (Pickleball 50+)"
     ],
     "Thursday": [
-      "7:30 - 8:30 am (Pickleball - intermediate)",
-      "8:40 - 9:40 am (Pickleball - intermediate)",
+      "7:30 - 8:30 am (Pickleball - Intermediate 16+)",
+      "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "2:30 - 3:30 pm (Pickleball - intermediate)"
+      "2:30 - 3:30 pm (Pickleball - Intermediate 16+)"
     ],
     "Friday": [
       "7:30 - 8:30 am (Pickleball 50+)",
@@ -76,14 +76,14 @@
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball - intermediate)",
-      "2:30 - 3:30 pm (Pickleball - intermediate)"
+      "1:20 - 2:20 pm (Pickleball - Intermediate 16+)",
+      "2:30 - 3:30 pm (Pickleball - Intermediate 16+)"
     ],
     "Saturday": [
       "2 - 3 pm (play free) (Pickleball 16+)"
     ],
     "Sunday": [
-      "12:50 - 1:50 pm (Pickleball family -parent with child)"
+      "12:50 - 1:50 pm (Pickleball - Parent with Child (ages 15 and under))"
     ]
   },
   "Heron Road Community Centre January 21 to March 15": {
