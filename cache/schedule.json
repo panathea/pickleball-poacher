@@ -1,4 +1,13 @@
 {
+  "Diane Deans Greenboro Community Centre March 14 to 22": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
+    "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
+    "coordinates": {
+      "lat": 45.363304,
+      "lon": -75.635469
+    }
+  },
   "Diane Deans Greenboro Community Centre January 12 to March 15": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
@@ -161,7 +170,7 @@
       "11 am - 12 pm (Pickleball)"
     ]
   },
-  "Hunt Club-Riverside Park Community Centre January 5 to March 31": {
+  "Hunt Club-Riverside Park Community Centre January 5 to June 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
     "address": "3320 Paul Anka Drive Ottawa ON K1V 0J9",
