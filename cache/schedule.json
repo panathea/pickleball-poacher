@@ -34,6 +34,15 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
+  "François Dupuis Recreation Centre March 16 to 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
+    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
+    "coordinates": {
+      "lat": 45.4542983,
+      "lon": -75.4638702
+    }
+  },
   "François Dupuis Recreation Centre January 5 to June 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
@@ -145,6 +154,15 @@
       "9:05 - 10:05 am (Pickleball 18+)"
     ]
   },
+  "Hintonburg Community Centre March 16 to 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
+    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
+    "coordinates": {
+      "lat": 45.4037799,
+      "lon": -75.7243081
+    }
+  },
   "Hintonburg Community Centre January 4 to June 26": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
@@ -190,6 +208,15 @@
       "12 pm - 1 pm (Pickleball - adult - intermediate)",
       "1 - 2 pm (Pickleball - adult - intermediate)"
     ]
+  },
+  "Minto Recreation Complex - Barrhaven March 16 to 22": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
+    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
+    "coordinates": {
+      "lat": 45.2528846,
+      "lon": -75.7313152
+    }
   },
   "Minto Recreation Complex - Barrhaven January 10 to March 15": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
@@ -317,6 +344,15 @@
       "1 - 2 pm (Pickleball)"
     ]
   },
+  "Pat Clark Community Centre March 16 to 21": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/patclarkcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/pat-clark-community-centre",
+    "address": "4355 Halmont Drive Ottawa ON K1J 8W6",
+    "coordinates": {
+      "lat": "45.4285820",
+      "lon": "-75.6199021"
+    }
+  },
   "Pat Clark Community Centre February 9 to April 3": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/patclarkcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/pat-clark-community-centre",
@@ -440,6 +476,15 @@
       "12 pm - 1 pm (Pickleball - adult)",
       "1 - 2 pm (Pickleball - adult)"
     ]
+  },
+  "Routhier Community Centre March 16 to 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
+    "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
+    "coordinates": {
+      "lat": 45.4320568,
+      "lon": -75.6916059
+    }
   },
   "Routhier Community Centre September 1 to June 17": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
