@@ -506,6 +506,45 @@
       "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
     ]
   },
+  "Richcraft Recreation Complex-Kanata March 3 to June 28": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": 45.3411181,
+      "lon": -75.9301423
+    },
+    "Tuesday": [
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
+      "2:30 - 3:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))",
+      "6 - 7 pm (Pickleball - rotations (intermediate))"
+    ],
+    "Wednesday": [
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
+      "2:30 - 3:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
+    ],
+    "Thursday": [
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
+      "2:30 - 3:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
+    ],
+    "Friday": [
+      "7:30 - 8:30 am (Pickleball - rotations)",
+      "8:30 - 9:30 am (Pickleball - rotations)",
+      "8:30 - 9:30 am (Pickleball - rotations (intermediate))",
+      "9:30 - 10:30 am (Pickleball - rotations)",
+      "9:30 - 10:30 am (Pickleball - rotations (intermediate))",
+      "1:30 - 2:30 pm (Pickleball - rotations)",
+      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
+      "2:30 - 3:30 pm (Pickleball - rotations)",
+      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
+    ]
+  },
   "Richelieu Vanier Community Centre December 1, 2025 to April 30, 2026": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
