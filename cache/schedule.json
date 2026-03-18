@@ -101,7 +101,7 @@
       "12:50 - 1:50 pm (Pickleball - Parent with Child (ages 15 and under))"
     ]
   },
-  "Heron Road Community Centre January 21 to March 15": {
+  "Heron Road Community Centre March 16 to June 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
     "address": "1480 Heron Road Ottawa ON K1V 6A5",
@@ -215,47 +215,6 @@
       "lon": -75.7313152
     }
   },
-  "Minto Recreation Complex - Barrhaven January 10 to March 15": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
-    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
-    "coordinates": {
-      "lat": 45.2528846,
-      "lon": -75.7313152
-    },
-    "Monday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "11:30 am - 12:30 pm (Pickleball)",
-      "12:35 - 1:35 pm (Pickleball)",
-      "1:40 - 2:40 pm (Pickleball)",
-      "2:45 - 3:45 pm (Pickleball)",
-      "4:55 - 5:55 pm (Pickleball)",
-      "6  -  7 pm (Pickleball)"
-    ],
-    "Wednesday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Friday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ]
-  },
   "Minto Recreation Complex - Barrhaven March 23 to June 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
@@ -292,38 +251,6 @@
       "12:50 - 1:50 pm (Pickleball)",
       "1:55 - 2:55 pm (Pickleball)",
       "3 - 4 pm (Pickleball)"
-    ]
-  },
-  "Nepean Sportsplex January 5 to March 15": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
-    "address": "1701 Woodroffe Avenue Ottawa ON K2G 1W2",
-    "coordinates": {
-      "lat": 45.3261707,
-      "lon": -75.7465667
-    },
-    "Monday": [
-      "10:30 - 11:30 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)",
-      "12:30 - 1:30 pm (Pickleball)",
-      "1:30 - 2:30 pm (Pickleball)",
-      "2:30 - 3:30 pm (Pickleball)",
-      "3:30 - 4:30 pm (Pickleball)"
-    ],
-    "Wednesday": [
-      "10:30 - 11:30 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)",
-      "12:30 - 1:30 pm (Pickleball)",
-      "1:30 - 2:30 pm (Pickleball)"
-    ],
-    "Friday": [
-      "10:30 - 11:30 am (Pickleball)",
-      "11:30 am - 12:30 pm (Pickleball)",
-      "12:30 - 1:30 pm (Pickleball)",
-      "1:30 - 2:30 pm (Pickleball)",
-      "2:30 - 3:30 pm (Pickleball)",
-      "3:30 - 4:30 pm (Pickleball)",
-      "4:30 - 5:30 pm (Pickleball)"
     ]
   },
   "Nepean Sportsplex March 23 to June 28": {
@@ -439,45 +366,14 @@
     "coordinates": {
       "lat": 45.3411181,
       "lon": -75.9301423
-    }
-  },
-  "Richcraft Recreation Complex-Kanata January 5 to March 13": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
-    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
-    "coordinates": {
-      "lat": 45.3411181,
-      "lon": -75.9301423
     },
-    "Tuesday": [
-      "1:30 - 2:30 pm (Pickleball - rotations)",
-      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
-      "2:30 - 3:30 pm (Pickleball - rotations)",
-      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))",
-      "6 - 7 pm (Pickleball - rotations (intermediate))"
-    ],
     "Wednesday": [
-      "1:30 - 2:30 pm (Pickleball - rotations)",
-      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
-      "2:30 - 3:30 pm (Pickleball - rotations)",
-      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
-    ],
-    "Thursday": [
-      "1:30 - 2:30 pm (Pickleball - rotations)",
-      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
-      "2:30 - 3:30 pm (Pickleball - rotations)",
-      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
-    ],
-    "Friday": [
-      "7:30 - 8:30 am (Pickleball - rotations)",
-      "8:30 - 9:30 am (Pickleball - rotations)",
-      "8:30 - 9:30 am (Pickleball - rotations (intermediate))",
-      "9:30 - 10:30 am (Pickleball - rotations)",
-      "9:30 - 10:30 am (Pickleball - rotations (intermediate))",
-      "1:30 - 2:30 pm (Pickleball - rotations)",
-      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))",
-      "2:30 - 3:30 pm (Pickleball - rotations)",
-      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
+      "7 - 8 pm (Pickleball - rotations)*",
+      "7 - 8 pm (Pickleball - rotations (intermediate))*",
+      "8 - 9 pm (Pickleball - rotations)*",
+      "8 - 9 pm (Pickleball - rotations (intermediate))*",
+      "9 - 10 pm (Pickleball - rotations)*",
+      "9 - 10 pm (Pickleball - rotations (intermediate))*"
     ]
   },
   "Richcraft Recreation Complex-Kanata March 23 to June 28": {
