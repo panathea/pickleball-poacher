@@ -1,13 +1,4 @@
 {
-  "Diane Deans Greenboro Community Centre March 14 to 22": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
-    "address": "363 Lorry Greenberg Drive Ottawa ON K1T 3P8",
-    "coordinates": {
-      "lat": 45.363304,
-      "lon": -75.635469
-    }
-  },
   "Diane Deans Greenboro Community Centre March 23 to June 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/greenborocommunitycentre",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/diane-deans-greenboro-community-centre",
@@ -215,7 +206,7 @@
       "lon": -75.7313152
     }
   },
-  "Minto Recreation Complex - Barrhaven March 23 to June 21": {
+  "Minto Recreation Complex - Barrhaven March 2 to April 1": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
     "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
@@ -233,12 +224,54 @@
       "11:45 am - 12:45 pm (Pickleball)",
       "12:50 - 1:50 pm (Pickleball)",
       "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)",
+      "4:55 - 5:55 pm (Pickleball)*",
+      "6 - 7 pm (Pickleball)*"
+    ],
+    "Wednesday": [
+      "11:45 am - 12:45 pm (Pickleball)*",
+      "12:50 - 1:50 pm (Pickleball)*",
+      "1:55 - 2:55 pm (Pickleball)*",
+      "3 - 4 pm (Pickleball)*"
+    ],
+    "Thursday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
       "3 - 4 pm (Pickleball)"
+    ],
+    "Friday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)"
+    ]
+  },
+  "Minto Recreation Complex - Barrhaven April 2 to June 21": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
+    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
+    "coordinates": {
+      "lat": 45.2528846,
+      "lon": -75.7313152
+    },
+    "Monday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)"
+    ],
+    "Tuesday": [
+      "11:45 am - 12:45 pm (Pickleball)",
+      "12:50 - 1:50 pm (Pickleball)",
+      "1:55 - 2:55 pm (Pickleball)",
+      "3 - 4 pm (Pickleball)",
+      "5:45 - 6:45 pm (Pickleball)*"
     ],
     "Wednesday": [
       "9 - 10 am (Pickleball)",
-      "2:05 - 3:05 pm (Pickleball)",
-      "5:45 - 6:45 pm (Pickleball)"
+      "1 - 2 pm (Pickleball)*",
+      "2:05 - 3:05 pm (Pickleball)"
     ],
     "Thursday": [
       "11:45 am - 12:45 pm (Pickleball)",
@@ -285,15 +318,6 @@
       "4:30 - 5:30 pm (Pickleball)"
     ]
   },
-  "Overbrook Community Centre March 14 to 22": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
-    "address": "33 Quill Street Ottawa ON K1K 4E7",
-    "coordinates": {
-      "lat": 45.4255151,
-      "lon": -75.6572512
-    }
-  },
   "Overbrook Community Centre January 5 to June 19": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
@@ -337,15 +361,6 @@
       "12 pm - 1 pm (Pickleball)",
       "1 - 2 pm (Pickleball)"
     ]
-  },
-  "Pat Clark Community Centre March 16 to 21": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/patclarkcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/pat-clark-community-centre",
-    "address": "4355 Halmont Drive Ottawa ON K1J 8W6",
-    "coordinates": {
-      "lat": "45.4285820",
-      "lon": "-75.6199021"
-    }
   },
   "Pat Clark Community Centre February 9 to April 3": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/patclarkcc",
@@ -488,16 +503,7 @@
       "1 - 2 pm (Pickleball - adult)"
     ]
   },
-  "Routhier Community Centre March 16 to 20": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
-    "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
-    "coordinates": {
-      "lat": 45.4320568,
-      "lon": -75.6916059
-    }
-  },
-  "Routhier Community Centre September 1 to June 17": {
+  "Routhier Community Centre until June 17": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
     "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
