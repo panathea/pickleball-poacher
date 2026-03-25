@@ -197,15 +197,6 @@
       "1 - 2 pm (Pickleball - adult - intermediate)"
     ]
   },
-  "Minto Recreation Complex - Barrhaven March 16 to 22": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
-    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
-    "coordinates": {
-      "lat": 45.2528846,
-      "lon": -75.7313152
-    }
-  },
   "Minto Recreation Complex - Barrhaven March 2 to April 1": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
@@ -374,23 +365,6 @@
       "8:15 - 9:15 pm (Pickleball - family)"
     ]
   },
-  "Richcraft Recreation Complex-Kanata March 14 to 22": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
-    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
-    "coordinates": {
-      "lat": 45.3411181,
-      "lon": -75.9301423
-    },
-    "Wednesday": [
-      "7 - 8 pm (Pickleball - rotations)*",
-      "7 - 8 pm (Pickleball - rotations (intermediate))*",
-      "8 - 9 pm (Pickleball - rotations)*",
-      "8 - 9 pm (Pickleball - rotations (intermediate))*",
-      "9 - 10 pm (Pickleball - rotations)*",
-      "9 - 10 pm (Pickleball - rotations (intermediate))*"
-    ]
-  },
   "Richcraft Recreation Complex-Kanata March 23 to June 28": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
@@ -521,14 +495,20 @@
       "9:30 - 11:30 am (Pickleball - adult)"
     ]
   },
-  "South Fallingbrook Community Centre March 16 to 22": {
+  "South Fallingbrook Community Centre": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
     "address": "998 Valin Street Ottawa ON K4A 4B5",
     "coordinates": {
       "lat": 45.4715999,
       "lon": -75.4623601
-    }
+    },
+    "Monday": [
+      "11:30 - 12:30 pm (Pickleball - adult)*",
+      "1 - 2 pm (Pickleball - adult)*",
+      "8:30 - 9:30 pm (Pickleball - adult)*",
+      "9:30 - 10:30 pm (Pickleball - adult)*"
+    ]
   },
   "South Fallingbrook Community Centre January 5 to May 16": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
