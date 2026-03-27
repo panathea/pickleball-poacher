@@ -16,6 +16,9 @@
       "11 am - 12 pm (Pickleball)"
     ],
     "Friday": [
+      "9:30 - 10:30 am (Pickleball - intermediate)*",
+      "10:30 - 11:30 am (Pickleball - intermediate)*",
+      "11:30 am - 12:30 pm (Pickleball)*",
       "12:30 - 1:30 pm (Pickleball)"
     ],
     "Sunday": [
@@ -92,7 +95,7 @@
       "12:50 - 1:50 pm (Pickleball - Parent with Child (ages 15 and under))"
     ]
   },
-  "Heron Road Community Centre March 16 to June 21": {
+  "Heron Road Community Centre March 30 to June 14": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
     "address": "1480 Heron Road Ottawa ON K1V 6A5",
@@ -101,18 +104,21 @@
       "lon": "-75.6543613"
     },
     "Monday": [
+      "9 - 9:55 am (Pickleball 50+)*",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
       "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Tuesday": [
+      "9 - 9:55 am (Pickleball 50+)*",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
       "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Wednesday": [
+      "9 - 9:55 am (Pickleball 50+)*",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
@@ -123,15 +129,18 @@
       "8 - 9 pm (Pickleball 18+)"
     ],
     "Thursday": [
+      "9 - 9:55 am (Pickleball 50+)*",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
       "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Friday": [
+      "9 - 9:55 am (Pickleball 50+)*",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
-      "12 pm - 12:55 pm (Pickleball 50+)"
+      "12 pm - 12:55 pm (Pickleball 50+)",
+      "1 - 1:55 pm (Pickleball 50+)*"
     ],
     "Saturday": [
       "8 - 9 am (Pickleball 18+)",
@@ -276,6 +285,15 @@
       "1:55 - 2:55 pm (Pickleball)",
       "3 - 4 pm (Pickleball)"
     ]
+  },
+  "Nepean Sportsplex": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
+    "address": "1701 Woodroffe Avenue Ottawa ON K2G 1W2",
+    "coordinates": {
+      "lat": 45.3261707,
+      "lon": -75.7465667
+    }
   },
   "Nepean Sportsplex March 23 to June 28": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
