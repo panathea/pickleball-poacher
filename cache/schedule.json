@@ -16,9 +16,9 @@
       "11 am - 12 pm (Pickleball)"
     ],
     "Friday": [
-      "9:30 - 10:30 am (Pickleball - intermediate)*",
-      "10:30 - 11:30 am (Pickleball - intermediate)*",
-      "11:30 am - 12:30 pm (Pickleball)*",
+      "9:30 - 10:30 am (Pickleball - intermediate)",
+      "10:30 - 11:30 am (Pickleball - intermediate)",
+      "11:30 am - 12:30 pm (Pickleball)",
       "12:30 - 1:30 pm (Pickleball)"
     ],
     "Sunday": [
@@ -104,21 +104,21 @@
       "lon": "-75.6543613"
     },
     "Monday": [
-      "9 - 9:55 am (Pickleball 50+)*",
+      "9 - 9:55 am (Pickleball 50+)",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
       "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Tuesday": [
-      "9 - 9:55 am (Pickleball 50+)*",
+      "9 - 9:55 am (Pickleball 50+)",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
       "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Wednesday": [
-      "9 - 9:55 am (Pickleball 50+)*",
+      "9 - 9:55 am (Pickleball 50+)",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
@@ -129,18 +129,18 @@
       "8 - 9 pm (Pickleball 18+)"
     ],
     "Thursday": [
-      "9 - 9:55 am (Pickleball 50+)*",
+      "9 - 9:55 am (Pickleball 50+)",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
       "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Friday": [
-      "9 - 9:55 am (Pickleball 50+)*",
+      "9 - 9:55 am (Pickleball 50+)",
       "10 - 10:55 am (Pickleball 50+)",
       "11 - 11:55 am (Pickleball 50+)",
       "12 pm - 12:55 pm (Pickleball 50+)",
-      "1 - 1:55 pm (Pickleball 50+)*"
+      "1 - 1:55 pm (Pickleball 50+)"
     ],
     "Saturday": [
       "8 - 9 am (Pickleball 18+)",
