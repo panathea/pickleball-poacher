@@ -55,18 +55,15 @@
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
       "1:20 - 2:20 pm (Pickleball 50+)",
-      "2:30 - 3:30 pm (Pickleball 50+)",
       "5:30 - 6:30 pm (Pickleball 16+)",
       "6:40 - 7:40 pm (Pickleball 16+)",
       "7:50 - 8:50 pm (Pickleball - Intermediate 16+)"
     ],
     "Tuesday": [
-      "7:30 - 8:30 am (Pickleball 50+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball - Intermediate 16+)",
-      "2:30 - 3:30 pm (Pickleball - Intermediate 16+)"
+      "1:20 - 2:20 pm (Pickleball - Intermediate 16+)"
     ],
     "Wednesday": [
       "7:30 - 8:30 am (Pickleball - Intermediate 16+)",
@@ -74,25 +71,21 @@
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball 50+)",
-      "2:30 - 3:30 pm (Pickleball 50+)"
+      "1:20 - 2:20 pm (Pickleball 50+)"
     ],
     "Thursday": [
       "7:30 - 8:30 am (Pickleball - Intermediate 16+)",
       "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
-      "12:10 - 1:10 pm (Pickleball 50+)",
-      "2:30 - 3:30 pm (Pickleball - Intermediate 16+)"
+      "12:10 - 1:10 pm (Pickleball 50+)"
     ],
     "Friday": [
-      "7:30 - 8:30 am (Pickleball 50+)",
       "8:40 - 9:40 am (Pickleball 50+)",
       "9:50 - 10:50 am (Pickleball 50+)",
       "11 am - 12 pm (Pickleball 50+)",
       "12:10 - 1:10 pm (Pickleball 50+)",
-      "1:20 - 2:20 pm (Pickleball - Intermediate 16+)",
-      "2:30 - 3:30 pm (Pickleball - Intermediate 16+)"
+      "1:20 - 2:20 pm (Pickleball - Intermediate 16+)"
     ],
     "Saturday": [
       "2 - 3 pmplay free (Pickleball 16+)"
@@ -178,9 +171,9 @@
       "2 - 3 pm (Pickleball)"
     ],
     "Thursday": [
-      "10 - 11 am (Pickleball)*",
-      "11 am - 12 pm (Pickleball)*",
-      "12 pm - 1 pm (Pickleball)*"
+      "10 - 11 am (Pickleball)",
+      "11 am - 12 pm (Pickleball)",
+      "12 pm - 1 pm (Pickleball)"
     ],
     "Friday": [
       "10 - 11 am (Pickleball)",
@@ -371,7 +364,7 @@
       "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
     ]
   },
-  "Richelieu Vanier Community Centre December 1, 2025 to May 29, 2026": {
+  "Richelieu Vanier Community Centre December 1, 2025 to June 26, 2026": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
     "address": "300 Des Pères-Blancs Avenue Ottawa ON K1L 7L5",
