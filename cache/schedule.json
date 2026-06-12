@@ -157,6 +157,19 @@
       "11 am - 12 pm (Pickleball)"
     ]
   },
+  "Hintonburg Community Centre July 6 to August 27": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
+    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
+    "coordinates": {
+      "lat": 45.4037799,
+      "lon": -75.7243081
+    },
+    "Wednesday": [
+      "7 - 8:30 pm (Pickleball)*",
+      "8:30 - 10 pm (Pickleball)*"
+    ]
+  },
   "Hunt Club-Riverside Park Community Centre January 5 to June 21": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
