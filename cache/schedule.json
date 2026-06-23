@@ -354,39 +354,6 @@
       "8:30 - 9:30 pm (Pickleball 18+ - recreational play)"
     ]
   },
-  "Rideauview Community Centre January 5 to June 19": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/rideauviewcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/rideauview-community-centre",
-    "address": "4310 Shoreline Drive Ottawa ON K1V 1N4",
-    "coordinates": {
-      "lat": 45.2773625,
-      "lon": -75.6874545
-    },
-    "Tuesday": [
-      "9:15 - 10:15 am (Pickleball - adult)",
-      "10:15 - 11:15 am (Pickleball - adult)",
-      "11:15 - 12:15 pm (Pickleball - adult)",
-      "12:15 - 1:15 pm (Pickleball - adult)",
-      "1:15 - 2:15 pm (Pickleball - adult)"
-    ],
-    "Wednesday": [
-      "9:15 - 10:15 am (Pickleball - adult)",
-      "10:15 - 11:15 am (Pickleball - adult)",
-      "11:15 - 12:15 pm (Pickleball - adult)",
-      "12:15 - 1:15 pm (Pickleball - adult)"
-    ],
-    "Thursday": [
-      "9:15 - 10:15 am (Pickleball - adult)",
-      "10:15 - 11:15 am (Pickleball - adult)",
-      "11:15 - 12:15 pm (Pickleball - adult)",
-      "12:15 - 1:15 pm (Pickleball - adult)",
-      "1:15 - 2:15 pm (Pickleball - adult)"
-    ],
-    "Friday": [
-      "12 pm - 1 pm (Pickleball - adult)",
-      "1 - 2 pm (Pickleball - adult)"
-    ]
-  },
   "Routhier Community Centre until June 26": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
