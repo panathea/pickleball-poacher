@@ -71,62 +71,6 @@
       "12:50 - 1:50 pm (Pickleball - Parent with Child (ages 15 and under))"
     ]
   },
-  "Heron Road Community Centre March 30 to June 14": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
-    "address": "1480 Heron Road Ottawa ON K1V 6A5",
-    "coordinates": {
-      "lat": "45.3789288",
-      "lon": "-75.6543613"
-    },
-    "Monday": [
-      "9 - 9:55 am (Pickleball 50+)",
-      "10 - 10:55 am (Pickleball 50+)",
-      "11 - 11:55 am (Pickleball 50+)",
-      "12 pm - 12:55 pm (Pickleball 50+)",
-      "1 - 1:55 pm (Pickleball 50+)"
-    ],
-    "Tuesday": [
-      "9 - 9:55 am (Pickleball 50+)",
-      "10 - 10:55 am (Pickleball 50+)",
-      "11 - 11:55 am (Pickleball 50+)",
-      "12 pm - 12:55 pm (Pickleball 50+)",
-      "1 - 1:55 pm (Pickleball 50+)"
-    ],
-    "Wednesday": [
-      "9 - 9:55 am (Pickleball 50+)",
-      "10 - 10:55 am (Pickleball 50+)",
-      "11 - 11:55 am (Pickleball 50+)",
-      "12 pm - 12:55 pm (Pickleball 50+)",
-      "1 - 1:55 pm (Pickleball 50+)",
-      "5 - 6 pm (Pickleball 18+)",
-      "6 - 7 pm (Pickleball 18+)",
-      "7 - 8 pm (Pickleball 18+)",
-      "8 - 9 pm (Pickleball 18+)"
-    ],
-    "Thursday": [
-      "9 - 9:55 am (Pickleball 50+)",
-      "10 - 10:55 am (Pickleball 50+)",
-      "11 - 11:55 am (Pickleball 50+)",
-      "12 pm - 12:55 pm (Pickleball 50+)",
-      "1 - 1:55 pm (Pickleball 50+)"
-    ],
-    "Friday": [
-      "9 - 9:55 am (Pickleball 50+)",
-      "10 - 10:55 am (Pickleball 50+)",
-      "11 - 11:55 am (Pickleball 50+)",
-      "12 pm - 12:55 pm (Pickleball 50+)",
-      "1 - 1:55 pm (Pickleball 50+)"
-    ],
-    "Saturday": [
-      "8 - 9 am (Pickleball 18+)",
-      "9:05 - 10:05 am (Pickleball 18+)"
-    ],
-    "Sunday": [
-      "8 - 9 am (Pickleball 18+)",
-      "9:05 - 10:05 am (Pickleball 18+)"
-    ]
-  },
   "Hintonburg Community Centre January 4 to June 26": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
@@ -189,45 +133,6 @@
     "Thursday": [
       "12 pm - 1 pm (Pickleball - adult - intermediate)",
       "1 - 2 pm (Pickleball - adult - intermediate)"
-    ]
-  },
-  "Minto Recreation Complex - Barrhaven April 2 to June 21": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
-    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
-    "coordinates": {
-      "lat": 45.2528846,
-      "lon": -75.7313152
-    },
-    "Monday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)",
-      "5:45 - 6:45 pm (Pickleball)"
-    ],
-    "Wednesday": [
-      "9 - 10 am (Pickleball)",
-      "1 - 2 pm (Pickleball)",
-      "2:05 - 3:05 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
-    ],
-    "Friday": [
-      "11:45 am - 12:45 pm (Pickleball)",
-      "12:50 - 1:50 pm (Pickleball)",
-      "1:55 - 2:55 pm (Pickleball)",
-      "3 - 4 pm (Pickleball)"
     ]
   },
   "Minto Recreation Complex - Barrhaven June 22 to August 30": {
@@ -423,9 +328,9 @@
       "lon": -75.4623601
     },
     "Saturday": [
-      "12:45 - 1:45 pm (Pickleball - parent with child)*",
-      "1:45 - 2:45 pm (Pickleball - adult)*",
-      "2:45 - 3:45 pm (Pickleball - adult)*"
+      "12:45 - 1:45 pm (Pickleball - parent with child)",
+      "1:45 - 2:45 pm (Pickleball - adult)",
+      "2:45 - 3:45 pm (Pickleball - adult)"
     ]
   }
 }
