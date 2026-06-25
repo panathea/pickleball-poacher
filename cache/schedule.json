@@ -114,27 +114,6 @@
       "6:30 - 7:30 pm (Pickleball)*"
     ]
   },
-  "Hunt Club-Riverside Park Community Centre January 5 to June 21": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/huntclubCC",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hunt-club-riverside-park-community-centre",
-    "address": "3320 Paul Anka Drive Ottawa ON K1V 0J9",
-    "coordinates": {
-      "lat": 45.3514206,
-      "lon": -75.6727102
-    },
-    "Monday": [
-      "12 pm - 1 pm (Pickleball - adult)",
-      "1 - 2 pm (Pickleball - adult)"
-    ],
-    "Tuesday": [
-      "11:30 am - 12:30 pm (Pickleball - adult)",
-      "12:30 - 1:30 pm (Pickleball - adult)"
-    ],
-    "Thursday": [
-      "12 pm - 1 pm (Pickleball - adult - intermediate)",
-      "1 - 2 pm (Pickleball - adult - intermediate)"
-    ]
-  },
   "Minto Recreation Complex - Barrhaven June 22 to August 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
@@ -283,16 +262,16 @@
       "lon": -75.6916059
     },
     "Tuesday": [
-      "9:30 - 10:30 am (Pickleball - adult)*",
-      "10:30 - 11:30 am (Pickleball - adult)*"
+      "9:30 - 10:30 am (Pickleball - adult)",
+      "10:30 - 11:30 am (Pickleball - adult)"
     ],
     "Thursday": [
-      "9:30 - 10:30 am (Pickleball - adult)*",
-      "10:30 - 11:30 am (Pickleball - adult)*"
+      "9:30 - 10:30 am (Pickleball - adult)",
+      "10:30 - 11:30 am (Pickleball - adult)"
     ],
     "Friday": [
-      "6 - 7 pm (Pickleball - adult)*",
-      "7 - 8 pm (Pickleball - adult)*"
+      "6 - 7 pm (Pickleball - adult)",
+      "7 - 8 pm (Pickleball - adult)"
     ]
   },
   "South Fallingbrook Community Centre January 5 to June 14": {
