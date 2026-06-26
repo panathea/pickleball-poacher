@@ -25,52 +25,6 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
-  "François Dupuis Recreation Centre January 5 to June 21": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/francoisdupuis",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/francois-dupuis-recreation-centre",
-    "address": "2263 Portobello Boulevard Ottawa ON K4A 0X3",
-    "coordinates": {
-      "lat": 45.4542983,
-      "lon": -75.4638702
-    },
-    "Monday": [
-      "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
-      "9:50 - 10:50 am (Pickleball 50+)",
-      "11 am - 12 pm (Pickleball 50+)",
-      "12:10 -1:10 pm (Pickleball 50+)",
-      "5:30 - 6:30 pm (Pickleball 16+)",
-      "6:40 - 7:40 pm (Pickleball 16+)"
-    ],
-    "Tuesday": [
-      "9:50 - 10:50 am (Pickleball 50+)",
-      "11 am - 12 pm (Pickleball 50+)",
-      "12:10 - 1:10 pm (Pickleball 50+)"
-    ],
-    "Wednesday": [
-      "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
-      "9:50 - 10:50 am (Pickleball 50+)",
-      "11 am - 12 pm (Pickleball 50+)",
-      "12:10 - 1:10 pm (Pickleball 50+)"
-    ],
-    "Thursday": [
-      "8:40 - 9:40 am (Pickleball - Intermediate 16+)",
-      "9:50 - 10:50 am (Pickleball 50+)",
-      "11 am - 12 pm (Pickleball 50+)",
-      "12:10 - 1:10 pm (Pickleball 50+)"
-    ],
-    "Friday": [
-      "8:40 - 9:40 am (Pickleball 50+)",
-      "9:50 - 10:50 am (Pickleball 50+)",
-      "11 am - 12 pm (Pickleball 50+)",
-      "12:10 - 1:10 pm (Pickleball 50+)"
-    ],
-    "Saturday": [
-      "2 - 3 pmplay free (Pickleball 16+)"
-    ],
-    "Sunday": [
-      "12:50 - 1:50 pm (Pickleball - Parent with Child (ages 15 and under))"
-    ]
-  },
   "Hintonburg Community Centre January 4 to June 26": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
