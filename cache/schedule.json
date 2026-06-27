@@ -64,8 +64,8 @@
       "lon": -75.7243081
     },
     "Wednesday": [
-      "5:30 - 6:30 pm (Pickleball)*",
-      "6:30 - 7:30 pm (Pickleball)*"
+      "5:30 - 6:30 pm (Pickleball)",
+      "6:30 - 7:30 pm (Pickleball)"
     ]
   },
   "Minto Recreation Complex - Barrhaven June 22 to August 30": {
@@ -190,6 +190,30 @@
       "6:30 - 7:30 pm (Pickleball 18+ - recreational play)",
       "7:30 - 8:30 pm (Pickleball 18+ - recreational play)",
       "8:30 - 9:30 pm (Pickleball 18+ - recreational play)"
+    ]
+  },
+  "Richelieu Vanier Community Centre June 29 to July 24": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
+    "address": "300 Des Pères-Blancs Avenue Ottawa ON K1L 7L5",
+    "coordinates": {
+      "lat": 45.4438035,
+      "lon": -75.6599939
+    },
+    "Monday": [
+      "5:30 - 6:30 pm (Pickleball 18+ - recreational play)*",
+      "6:30 - 7:30 pm (Pickleball 18+ - recreational play)*",
+      "7:30 - 8:30 pm (Pickleball 18+ - recreational play)*"
+    ],
+    "Thursday": [
+      "5:30 - 6:30 pm (Pickleball 18+ - recreational play)*",
+      "6:30 - 7:30 pm (Pickleball 18+ - recreational play)*",
+      "7:30 - 8:30 pm (Pickleball 18+ - recreational play)*"
+    ],
+    "Friday": [
+      "5:30 - 6:30 pm (Pickleball 18+ - recreational play)",
+      "6:30 - 7:30 pm (Pickleball 18+ - recreational play)",
+      "7:30 - 8:30 pm (Pickleball 18+ - recreational play)"
     ]
   },
   "Routhier Community Centre until June 26": {
