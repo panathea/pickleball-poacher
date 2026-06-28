@@ -25,36 +25,6 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
-  "Hintonburg Community Centre January 4 to June 26": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
-    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
-    "coordinates": {
-      "lat": 45.4037799,
-      "lon": -75.7243081
-    },
-    "Monday": [
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)",
-      "2 - 3 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)",
-      "2 - 3 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)"
-    ],
-    "Friday": [
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)"
-    ]
-  },
   "Hintonburg Community Centre July 6 to August 27": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
@@ -214,21 +184,6 @@
       "5:30 - 6:30 pm (Pickleball 18+ - recreational play)",
       "6:30 - 7:30 pm (Pickleball 18+ - recreational play)",
       "7:30 - 8:30 pm (Pickleball 18+ - recreational play)"
-    ]
-  },
-  "Routhier Community Centre until June 26": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
-    "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
-    "coordinates": {
-      "lat": 45.4320568,
-      "lon": -75.6916059
-    },
-    "Tuesday": [
-      "9:30 - 11:30 am (Pickleball - adult)"
-    ],
-    "Thursday": [
-      "9:30 - 11:30 am (Pickleball - adult)"
     ]
   },
   "Routhier Community Centre June 27 to August 30": {
