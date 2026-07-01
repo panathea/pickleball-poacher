@@ -25,6 +25,38 @@
       "10:30 - 11:30 am (Pickleball)"
     ]
   },
+  "Heron Road Community Centre June 30 to September 6": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
+    "address": "1480 Heron Road Ottawa ON K1V 6A5",
+    "coordinates": {
+      "lat": "45.3755903",
+      "lon": "-75.7009317"
+    },
+    "Monday": [
+      "5 - 6 pm (Pickleball 18+)*",
+      "6 - 7 pm (Pickleball 18+)*",
+      "7 - 8 pm (Pickleball 18+)*"
+    ],
+    "Wednesday": [
+      "5 - 6 pm (Pickleball 18+)*",
+      "6 - 7 pm (Pickleball 18+)*",
+      "7 - 8 pm (Pickleball 18+)*",
+      "8 - 9 pm (Pickleball 18+)*"
+    ],
+    "Saturday": [
+      "8 - 9 am (Pickleball 18+)*",
+      "9 - 10 am (Pickleball 18+)*",
+      "10 - 11 am (Pickleball 18+)*",
+      "11 am - 12 pm (Pickleball 18+)*"
+    ],
+    "Sunday": [
+      "8 - 9 am (Pickleball 18+)*",
+      "9 - 10 am (Pickleball 18+)*",
+      "10 - 11 am (Pickleball 18+)*",
+      "11 am - 12 pm (Pickleball 18+)*"
+    ]
+  },
   "Hintonburg Community Centre July 6 to August 27": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
