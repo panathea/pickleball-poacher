@@ -56,6 +56,15 @@
       "6:30 - 7:30 pm (Pickleball)"
     ]
   },
+  "Minto Recreation Complex - Barrhaven August 1 to 3": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
+    "address": "3500 Cambrian Road Ottawa ON K2J 0V1",
+    "coordinates": {
+      "lat": 45.2528846,
+      "lon": -75.7313152
+    }
+  },
   "Minto Recreation Complex - Barrhaven June 22 to August 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
@@ -123,7 +132,7 @@
       "lon": -75.4623601
     },
     "Saturday": [
-      "12:45 - 1:45 pmplay free (Pickleball - parent with child)*",
+      "12:45 - 1:45 pmplay free (Pickleball - parent with child)",
       "1:45 - 2:45 pm (Pickleball - adult)",
       "2:45 - 3:45 pm (Pickleball - adult)"
     ]
