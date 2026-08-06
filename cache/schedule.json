@@ -69,6 +69,50 @@
       "7:20 - 8:20 pm play free (Pickleball)"
     ]
   },
+  "Overbrook Community Centre August 31 to December 22": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
+    "address": "33 Quill Street Ottawa ON K1K 4E7",
+    "coordinates": {
+      "lat": "45.4254727",
+      "lon": "-75.6568470"
+    },
+    "Monday": [
+      "9 - 10 am (Pickleball)*",
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*",
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*"
+    ],
+    "Tuesday": [
+      "9 - 10 am (Pickleball)*",
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*",
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*"
+    ],
+    "Wednesday": [
+      "9 - 10 am (Pickleball)*",
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*",
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*"
+    ],
+    "Thursday": [
+      "9 - 10 am (Pickleball)*",
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*",
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*"
+    ],
+    "Friday": [
+      "9 - 10 am (Pickleball)*",
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*",
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*"
+    ]
+  },
   "Routhier Community Centre June 27 to August 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
