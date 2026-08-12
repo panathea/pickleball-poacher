@@ -113,7 +113,7 @@
       "1 - 2 pm (Pickleball)*"
     ]
   },
-  "Routhier Community Centre June 27 to August 30": {
+  "Routhier Community Centre June 27 to August 16": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
     "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
@@ -129,6 +129,19 @@
       "9:30 - 10:30 am (Pickleball - adult)",
       "10:30 - 11:30 am (Pickleball - adult)"
     ],
+    "Friday": [
+      "6 - 7 pm (Pickleball - adult)",
+      "7 - 8 pm (Pickleball - adult)"
+    ]
+  },
+  "Routhier Community Centre August 17 to 30": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
+    "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
+    "coordinates": {
+      "lat": 45.4320568,
+      "lon": -75.6916059
+    },
     "Friday": [
       "6 - 7 pm (Pickleball - adult)",
       "7 - 8 pm (Pickleball - adult)"
