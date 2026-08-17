@@ -69,6 +69,15 @@
       "7:20 - 8:20 pm play free (Pickleball)"
     ]
   },
+  "Nepean Sportsplex September 7": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
+    "address": "1701 Woodroffe Avenue Ottawa ON K2G 1W2",
+    "coordinates": {
+      "lat": "45.3271242",
+      "lon": "-75.7452920"
+    }
+  },
   "Overbrook Community Centre August 31 to December 22": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
