@@ -154,6 +154,89 @@
       "1 - 2 pm (Pickleball)"
     ]
   },
+  "Richcraft Recreation Complex-Kanata August 31 to September 4": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": "45.3404271",
+      "lon": "-75.9304974"
+    },
+    "Monday": [
+      "1:20 - 2:30 pm (Pickleball - rotations (intermediate))*",
+      "2:15 - 3:15 pm (Pickleball - rotations (recreational))*"
+    ],
+    "Tuesday": [
+      "9 - 10 am (Pickleball - rotations (intermediate))*",
+      "11 am - 12 pm (Pickleball - rotations (intermediate))*",
+      "11:30 am - 12:30 pm (Pickleball - rotations (recreational))*"
+    ],
+    "Wednesday": [
+      "1:45 - 2:45 pm (Pickleball - rotations (intermediate))*",
+      "2:15 - 3:15 pm (Pickleball - rotations (recreational))*"
+    ],
+    "Thursday": [
+      "11 am - 12 pm (Pickleball - rotations (intermediate))*",
+      "11:30 am - 12:30 pm (Pickleball - rotations (recreational))*",
+      "5 - 6 pm (Pickleball - rotations (recreational))*",
+      "6 - 7 pm (Pickleball - rotations (intermediate))*"
+    ],
+    "Friday": [
+      "6:30 - 7:30 am (Pickleball - rotations (recreational))*",
+      "7 - 8 am (Pickleball - rotations (recreational))*",
+      "7:30 - 8:30 am (Pickleball - rotations (intermediate))*",
+      "8 - 9 am (Pickleball - rotations (intermediate))*",
+      "8:30 - 9:30 am (Pickleball - rotations (recreational))*",
+      "9 - 10 am (Pickleball - rotations (recreational))*",
+      "9:30 - 10:30 am (Pickleball - rotations (intermediate))*",
+      "10 - 11 am (Pickleball - rotations (intermediate))*",
+      "1 - 2 pm (Pickleball - rotations (recreational))*",
+      "1:30 - 2:30 pm (Pickleball - rotations (recreational))*",
+      "2 - 3 pm (Pickleball - rotations (intermediate))*",
+      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))*"
+    ]
+  },
+  "Richcraft Recreation Complex-Kanata September 15 to December 20": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
+    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
+    "coordinates": {
+      "lat": "45.3404271",
+      "lon": "-75.9304974"
+    },
+    "Monday": [
+      "1:30 - 2:30 pm (Pickleball - rotations (intermediate))*",
+      "2:15 - 3:15 pm (Pickleball - rotations (recreational))*"
+    ],
+    "Tuesday": [
+      "11 am - 12 pm (Pickleball - rotations (intermediate))*",
+      "11:30 am - 12:30 pm (Pickleball - rotations (recreational))*",
+      "9 - 10 pm (Pickleball - rotations (intermediate))*"
+    ],
+    "Wednesday": [
+      "1:45 - 2:45 pm (Pickleball - rotations (intermediate))*",
+      "2:15 - 3:15 pm (Pickleball - rotations (recreational))*"
+    ],
+    "Thursday": [
+      "11 am - 12 pm (Pickleball - rotations (intermediate))*",
+      "11:30 am - 12:30 pm (Pickleball - rotations (recreational))*",
+      "5 - 6 pm (Pickleball - rotations (recreational))*",
+      "6 - 7 pm (Pickleball - rotations (intermediate))*"
+    ],
+    "Friday": [
+      "6:30 - 7:30 am (Pickleball - rotations (recreational))*",
+      "7 - 8 am (Pickleball - rotations (recreational))*",
+      "7:30 - 8:30 am (Pickleball - rotations (intermediate))*",
+      "8:30 - 9:30 am (Pickleball - rotations (recreational))*",
+      "9 - 10 am (Pickleball - rotations (recreational))*",
+      "9:30 - 10:30 am (Pickleball - rotations (intermediate))*",
+      "10 - 11 am (Pickleball - rotations (intermediate))*",
+      "1 - 2 pm (Pickleball - rotations (recreational))*",
+      "1:30 - 2:30 pm (Pickleball - rotations (recreational))*",
+      "2 -3 pm (Pickleball - rotations (intermediate))*",
+      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))*"
+    ]
+  },
   "Routhier Community Centre August 17 to 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
@@ -165,6 +248,27 @@
     "Friday": [
       "6 - 7 pm (Pickleball - adult)",
       "7 - 8 pm (Pickleball - adult)"
+    ]
+  },
+  "Routhier Community Centre August 31 to December 23": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
+    "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
+    "coordinates": {
+      "lat": 45.4320568,
+      "lon": -75.6916059
+    },
+    "Tuesday": [
+      "9:30 - 10:30 am (Pickleball - adult)*",
+      "10:30 - 11:30 am (Pickleball - adult)*"
+    ],
+    "Wednesday": [
+      "9:30 - 10:30 am (Pickleball - adult)*",
+      "10:30 - 11:30 am (Pickleball - adult)*"
+    ],
+    "Thursday": [
+      "9:30 - 10:30 am (Pickleball - adult)*",
+      "10:30 - 11:30 am (Pickleball - adult)*"
     ]
   },
   "South Fallingbrook Community Centre June 20 to August 29": {
