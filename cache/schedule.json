@@ -56,6 +56,31 @@
       "6:30 - 7:30 pm (Pickleball)"
     ]
   },
+  "Hintonburg Community Centre September 8, 2026 to June 27, 2027": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
+    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
+    "coordinates": {
+      "lat": 45.4037799,
+      "lon": -75.7243081
+    },
+    "Monday": [
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*",
+      "2 - 3 pm (Pickleball)*"
+    ],
+    "Tuesday": [
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*",
+      "12 pm - 1 pm (Pickleball)*",
+      "1 - 2 pm (Pickleball)*",
+      "2 - 3 pm (Pickleball)*"
+    ],
+    "Friday": [
+      "10 - 11 am (Pickleball)*",
+      "11 am - 12 pm (Pickleball)*"
+    ]
+  },
   "Minto Recreation Complex - Barrhaven June 22 to August 30": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/mintobarrhaven",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/minto-recreation-complex-barrhaven",
@@ -235,6 +260,39 @@
       "1:30 - 2:30 pm (Pickleball - rotations (recreational))*",
       "2 -3 pm (Pickleball - rotations (intermediate))*",
       "2:30 - 3:30 pm (Pickleball - rotations (intermediate))*"
+    ]
+  },
+  "Rideauview Community Centre September 8 to December 18": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/rideauviewcc",
+    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/rideauview-community-centre",
+    "address": "4310 Shoreline Drive Ottawa ON K1V 1N4",
+    "coordinates": {
+      "lat": "45.2772445",
+      "lon": "-75.6870068"
+    },
+    "Tuesday": [
+      "9:15 - 10:15 am (Pickleball - adult)*",
+      "10:15 - 11:15 am (Pickleball - adult)*",
+      "11:15 am - 12:15 pm (Pickleball - adult)*",
+      "12:15 - 1:15 pm (Pickleball - adult)*",
+      "1:15 - 2:15 pm (Pickleball - adult)*"
+    ],
+    "Wednesday": [
+      "9:15 - 10:15 am (Pickleball - adult)*",
+      "10:15 - 11:15 am (Pickleball - adult)*",
+      "11:15 am - 12:15 pm (Pickleball - adult)*",
+      "12:15 - 1:15 pm (Pickleball - adult)*"
+    ],
+    "Thursday": [
+      "9:15 - 10:15 am (Pickleball - adult)*",
+      "10:15 - 11:15 am (Pickleball - adult)*",
+      "11:15 am - 12:15 pm (Pickleball - adult)*",
+      "12:15 - 1:15 pm (Pickleball - adult)*",
+      "1:15 - 2:15 pm (Pickleball - adult)*"
+    ],
+    "Friday": [
+      "12 pm - 1 pm (Pickleball - adult)*",
+      "1 - 2 pm (Pickleball - adult)*"
     ]
   },
   "Routhier Community Centre August 17 to 30": {
