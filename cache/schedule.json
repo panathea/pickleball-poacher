@@ -34,13 +34,13 @@
     ],
     "Wednesday": [
       "8:20 - 9:20 am (Pickleball Intermediate 50+)*",
-      "9:30 - 9:20 am (Pickleball Intermediate 50+)*",
+      "9:30 - 10:30 am (Pickleball Intermediate 50+)*",
       "10:40 - 11:40 am (Pickleball 50+)*",
       "11:50 - 12:50 pm (Pickleball 50+)*"
     ],
     "Thursday": [
       "8:20 - 9:20 am (Pickleball Intermediate 50+)*",
-      "9:30 - 9:20 am (Pickleball Intermediate 50+)*",
+      "9:30 - 10:30 am (Pickleball Intermediate 50+)*",
       "10:40 - 11:40 am (Pickleball 50+)*",
       "11:50 - 12:50 pm (Pickleball 50+)*"
     ],
@@ -108,20 +108,20 @@
       "lon": -75.7243081
     },
     "Monday": [
-      "12 pm - 1 pm (Pickleball)*",
-      "1 - 2 pm (Pickleball)*",
-      "2 - 3 pm (Pickleball)*"
+      "12 pm - 1 pm (Pickleball)",
+      "1 - 2 pm (Pickleball)",
+      "2 - 3 pm (Pickleball)"
     ],
     "Tuesday": [
-      "10 - 11 am (Pickleball)*",
-      "11 am - 12 pm (Pickleball)*",
-      "12 pm - 1 pm (Pickleball)*",
-      "1 - 2 pm (Pickleball)*",
-      "2 - 3 pm (Pickleball)*"
+      "10 - 11 am (Pickleball)",
+      "11 am - 12 pm (Pickleball)",
+      "12 pm - 1 pm (Pickleball)",
+      "1 - 2 pm (Pickleball)",
+      "2 - 3 pm (Pickleball)"
     ],
     "Friday": [
-      "10 - 11 am (Pickleball)*",
-      "11 am - 12 pm (Pickleball)*"
+      "10 - 11 am (Pickleball)",
+      "11 am - 12 pm (Pickleball)"
     ]
   },
   "Minto Recreation Complex - Barrhaven June 22 to August 30": {
@@ -343,6 +343,7 @@
     ]
   },
   "Richelieu Vanier Community Centre September 2 to December 31 ": {
+    "link": "https://reservation.frontdesksuite.ca/rcfs/richelieuvanier",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richelieu-vanier-community-centre",
     "address": "300 Des Pères-Blancs Avenue Ottawa ON K1L 7L5",
     "coordinates": {
@@ -388,28 +389,28 @@
       "lon": "-75.6870068"
     },
     "Tuesday": [
-      "9:15 - 10:15 am (Pickleball - adult)*",
-      "10:15 - 11:15 am (Pickleball - adult)*",
-      "11:15 am - 12:15 pm (Pickleball - adult)*",
-      "12:15 - 1:15 pm (Pickleball - adult)*",
-      "1:15 - 2:15 pm (Pickleball - adult)*"
+      "9:15 - 10:15 am (Pickleball - adult)",
+      "10:15 - 11:15 am (Pickleball - adult)",
+      "11:15 am - 12:15 pm (Pickleball - adult)",
+      "12:15 - 1:15 pm (Pickleball - adult)",
+      "1:15 - 2:15 pm (Pickleball - adult)"
     ],
     "Wednesday": [
-      "9:15 - 10:15 am (Pickleball - adult)*",
-      "10:15 - 11:15 am (Pickleball - adult)*",
-      "11:15 am - 12:15 pm (Pickleball - adult)*",
-      "12:15 - 1:15 pm (Pickleball - adult)*"
+      "9:15 - 10:15 am (Pickleball - adult)",
+      "10:15 - 11:15 am (Pickleball - adult)",
+      "11:15 am - 12:15 pm (Pickleball - adult)",
+      "12:15 - 1:15 pm (Pickleball - adult)"
     ],
     "Thursday": [
-      "9:15 - 10:15 am (Pickleball - adult)*",
-      "10:15 - 11:15 am (Pickleball - adult)*",
-      "11:15 am - 12:15 pm (Pickleball - adult)*",
-      "12:15 - 1:15 pm (Pickleball - adult)*",
-      "1:15 - 2:15 pm (Pickleball - adult)*"
+      "9:15 - 10:15 am (Pickleball - adult)",
+      "10:15 - 11:15 am (Pickleball - adult)",
+      "11:15 am - 12:15 pm (Pickleball - adult)",
+      "12:15 - 1:15 pm (Pickleball - adult)",
+      "1:15 - 2:15 pm (Pickleball - adult)"
     ],
     "Friday": [
-      "12 pm - 1 pm (Pickleball - adult)*",
-      "1 - 2 pm (Pickleball - adult)*"
+      "12 pm - 1 pm (Pickleball - adult)",
+      "1 - 2 pm (Pickleball - adult)"
     ]
   },
   "Routhier Community Centre August 17 to September 7": {
@@ -444,20 +445,6 @@
     "Thursday": [
       "9:30 - 10:30 am (Pickleball - adult)",
       "10:30 - 11:30 am (Pickleball - adult)"
-    ]
-  },
-  "South Fallingbrook Community Centre June 20 to August 29": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/southfallingbrook",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/south-fallingbrook-community-centre",
-    "address": "998 Valin Street Ottawa ON K4A 4B5",
-    "coordinates": {
-      "lat": 45.4715999,
-      "lon": -75.4623601
-    },
-    "Saturday": [
-      "12:45 - 1:45 pmplay free (Pickleball - parent with child)",
-      "1:45 - 2:45 pm (Pickleball - adult)",
-      "2:45 - 3:45 pm (Pickleball - adult)"
     ]
   },
   "South Fallingbrook Community Centre September 12 to December 20": {
