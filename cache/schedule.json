@@ -48,13 +48,13 @@
     ],
     "Wednesday": [
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
-      "9:30 - 10:30 am (Pickleball Intermediate 50+)*",
+      "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
       "11:50 - 12:50 pm (Pickleball 50+)"
     ],
     "Thursday": [
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
-      "9:30 - 10:30 am (Pickleball Intermediate 50+)*",
+      "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
       "11:50 - 12:50 pm (Pickleball 50+)"
     ],
@@ -98,19 +98,6 @@
       "9 - 10 am (Pickleball 18+)",
       "10 - 11 am (Pickleball 18+)",
       "11 am - 12 pm (Pickleball 18+)"
-    ]
-  },
-  "Hintonburg Community Centre July 6 to August 27": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/hintonburgcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/hintonburg-community-centre",
-    "address": "1064 Wellington Street West Ottawa ON K1Y 2Y3",
-    "coordinates": {
-      "lat": 45.4037799,
-      "lon": -75.7243081
-    },
-    "Wednesday": [
-      "5:30 - 6:30 pm (Pickleball)",
-      "6:30 - 7:30 pm (Pickleball)"
     ]
   },
   "Hintonburg Community Centre September 8, 2026 to June 27, 2027": {
@@ -196,15 +183,6 @@
       "1:55 - 2:55 pm (Pickleball)"
     ]
   },
-  "Nepean Sportsplex September 7": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
-    "address": "1701 Woodroffe Avenue Ottawa ON K2G 1W2",
-    "coordinates": {
-      "lat": "45.3271242",
-      "lon": "-75.7452920"
-    }
-  },
   "Nepean Sportsplex August 31 to December 20": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/nepeansportsplex",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/nepean-sportsplex",
@@ -279,48 +257,6 @@
       "11 am - 12 pm (Pickleball)",
       "12 pm - 1 pm (Pickleball)",
       "1 - 2 pm (Pickleball)"
-    ]
-  },
-  "Richcraft Recreation Complex-Kanata August 31 to September 4": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/richcraftkanata",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/richcraft-recreation-complex-kanata",
-    "address": "4101 Innovation Drive Ottawa ON K2K 0J3",
-    "coordinates": {
-      "lat": "45.3404271",
-      "lon": "-75.9304974"
-    },
-    "Monday": [
-      "1:20 - 2:30 pm (Pickleball - rotations (intermediate))",
-      "2:15 - 3:15 pm (Pickleball - rotations (recreational))"
-    ],
-    "Tuesday": [
-      "9 - 10 am (Pickleball - rotations (intermediate))",
-      "11 am - 12 pm (Pickleball - rotations (intermediate))",
-      "11:30 am - 12:30 pm (Pickleball - rotations (recreational))"
-    ],
-    "Wednesday": [
-      "1:45 - 2:45 pm (Pickleball - rotations (intermediate))",
-      "2:15 - 3:15 pm (Pickleball - rotations (recreational))"
-    ],
-    "Thursday": [
-      "11 am - 12 pm (Pickleball - rotations (intermediate))",
-      "11:30 am - 12:30 pm (Pickleball - rotations (recreational))",
-      "5 - 6 pm (Pickleball - rotations (recreational))",
-      "6 - 7 pm (Pickleball - rotations (intermediate))"
-    ],
-    "Friday": [
-      "6:30 - 7:30 am (Pickleball - rotations (recreational))",
-      "7 - 8 am (Pickleball - rotations (recreational))",
-      "7:30 - 8:30 am (Pickleball - rotations (intermediate))",
-      "8 - 9 am (Pickleball - rotations (intermediate))",
-      "8:30 - 9:30 am (Pickleball - rotations (recreational))",
-      "9 - 10 am (Pickleball - rotations (recreational))",
-      "9:30 - 10:30 am (Pickleball - rotations (intermediate))",
-      "10 - 11 am (Pickleball - rotations (intermediate))",
-      "1 - 2 pm (Pickleball - rotations (recreational))",
-      "1:30 - 2:30 pm (Pickleball - rotations (recreational))",
-      "2 - 3 pm (Pickleball - rotations (intermediate))",
-      "2:30 - 3:30 pm (Pickleball - rotations (intermediate))"
     ]
   },
   "Richcraft Recreation Complex-Kanata September 15 to December 20": {
