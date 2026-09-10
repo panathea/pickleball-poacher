@@ -68,7 +68,7 @@
       "2 - 3 pm (Pickleball - Parent with Child (ages 15 and under))"
     ]
   },
-  "Heron Road Community Centre June 30 to September 6": {
+  "Heron Road Community Centre September 8 to December 31": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/heronCC",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-road-community-centre",
     "address": "1480 Heron Road Ottawa ON K1V 6A5",
@@ -77,27 +77,51 @@
       "lon": "-75.7009317"
     },
     "Monday": [
-      "5 - 6 pm (Pickleball 18+)",
-      "6 - 7 pm (Pickleball 18+)",
-      "7 - 8 pm (Pickleball 18+)"
+      "9 - 9:55 am (Pickleball 50+ Older Adult)*",
+      "10 - 10:55 am (Pickleball 50+ Older Adult)*",
+      "11 - 11:55 am (Pickleball 50+ Older Adult)*",
+      "12 pm - 12:55 pm (Pickleball 50+ Older Adult)*",
+      "1 - 1:55 pm (Pickleball 50+ Older Adult)*"
+    ],
+    "Tuesday": [
+      "9 - 9:55 am (Pickleball 50+ Older Adult)*",
+      "10 - 10:55 am (Pickleball 50+ Older Adult)*",
+      "11 - 11:55 am (Pickleball 50+ Older Adult)*",
+      "12 pm - 12:55 pm (Pickleball 50+ Older Adult)*",
+      "1 - 1:55 pm (Pickleball 50+ Older Adult)*"
     ],
     "Wednesday": [
+      "9 - 9:55 am (Pickleball 50+ Older Adult)*",
+      "10 - 10:55 am (Pickleball 50+ Older Adult)*",
+      "11 - 11:55 am (Pickleball 50+ Older Adult)*",
+      "12 pm - 12:55 pm (Pickleball 50+ Older Adult)*",
+      "1 - 1:55 pm (Pickleball 50+ Older Adult)*",
       "5 - 6 pm (Pickleball 18+)",
       "6 - 7 pm (Pickleball 18+)",
       "7 - 8 pm (Pickleball 18+)",
       "8 - 9 pm (Pickleball 18+)"
     ],
+    "Thursday": [
+      "9 - 9:55 am (Pickleball 50+ Older Adult)*",
+      "10 - 10:55 am (Pickleball 50+ Older Adult)*",
+      "11 - 11:55 am (Pickleball 50+ Older Adult)*",
+      "12 pm - 12:55 pm (Pickleball 50+ Older Adult)*",
+      "1 - 1:55 pm (Pickleball 50+ Older Adult)*"
+    ],
+    "Friday": [
+      "9 - 9:55 am (Pickleball 50+ Older Adult)*",
+      "10 - 10:55 am (Pickleball 50+ Older Adult)*",
+      "11 - 11:55 am (Pickleball 50+ Older Adult)*",
+      "12 pm - 12:55 pm (Pickleball 50+ Older Adult)*",
+      "1 - 1:55 pm (Pickleball 50+ Older Adult)*"
+    ],
     "Saturday": [
       "8 - 9 am (Pickleball 18+)",
-      "9 - 10 am (Pickleball 18+)",
-      "10 - 11 am (Pickleball 18+)",
-      "11 am - 12 pm (Pickleball 18+)"
+      "9:05 - 10:05 am (Pickleball 18+)*"
     ],
     "Sunday": [
-      "8 - 9 am (Pickleball 18+)",
-      "9 - 10 am (Pickleball 18+)",
-      "10 - 11 am (Pickleball 18+)",
-      "11 am - 12 pm (Pickleball 18+)"
+      "8- 9 am (Pickleball 18+)*",
+      "9:05 - 10:05 am (Pickleball 18+)*"
     ]
   },
   "Hintonburg Community Centre September 8, 2026 to June 27, 2027": {
@@ -134,16 +158,16 @@
       "lon": "-75.6727440"
     },
     "Monday": [
-      "12 pm - 1pm (Pickleball - adult)*",
-      "1 - 2 pm (Pickleball - adult)*"
+      "12 pm - 1pm (Pickleball - adult)",
+      "1 - 2 pm (Pickleball - adult)"
     ],
     "Tuesday": [
-      "11:30 am - 12:30 pm (Pickleball - adult)*",
+      "11:30 am - 12:30 pm (Pickleball - adult)",
       "12:30 - 1:30 pm (Pickleball - adult)*"
     ],
     "Thursday": [
       "12 pm - 1 pm (Pickleball Intermediate - adult)*",
-      "1 - 2 pm (Pickleball Intermediate - adult)*"
+      "1 - 2 pm (Pickleball Intermediate - adult)"
     ]
   },
   "Minto Recreation Complex - Barrhaven September 8 to December 20": {
