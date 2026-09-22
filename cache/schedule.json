@@ -38,31 +38,41 @@
       "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
       "11:50 - 12:50 pm (Pickleball 50+)",
+      "1 - 2 pm (Pickleball 50+)*",
+      "2:10 - 3:10 pm (Pickleball 50+)*",
+      "5:40 - 6:40 pm (Pickleball 16+)*",
       "6:50 - 7:50 pm (Pickleball 16+)",
       "8 - 9 pm (Pickleball - Intermediate 16+)"
     ],
     "Tuesday": [
       "8:20 - 9:20 am (Pickleball 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
-      "11:50 am - 12:50 pm (Pickleball Intermediate 50+)"
+      "11:50 am - 12:50 pm (Pickleball Intermediate 50+)",
+      "1 - 2 pm (Pickleball Intermediate 50+)*",
+      "2:10 - 3:10 pm (Pickleball Intermediate 50+)*"
     ],
     "Wednesday": [
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
       "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
-      "11:50 - 12:50 pm (Pickleball 50+)"
+      "11:50 - 12:50 pm (Pickleball 50+)",
+      "1 - 2 pm (Pickleball 50+)*",
+      "2:10 - 3:10 pm (Pickleball 50+)*"
     ],
     "Thursday": [
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
       "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
-      "11:50 - 12:50 pm (Pickleball 50+)"
+      "11:50 - 12:50 pm (Pickleball 50+)",
+      "1 - 2 pm (Pickleball 50+)*"
     ],
     "Friday": [
       "8:20 - 9:20 am (Pickleball 50+)",
       "9:30 - 10:30 am (Pickleball 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
-      "11:50 am - 12:50 pm (Pickleball Intermediate 50+)"
+      "11:50 am - 12:50 pm (Pickleball Intermediate 50+)",
+      "1 - 2 pm (Pickleball Intermediate 50+)*",
+      "2:10 - 3:10 pm (Pickleball Intermediate 50+)*"
     ],
     "Sunday": [
       "2 - 3 pm (Pickleball - Parent with Child (ages 15 and under))"
