@@ -408,7 +408,7 @@
       "1 - 2 pm (Pickleball - adult)"
     ]
   },
-  "Routhier Community Centre September 8 to October 13": {
+  "Routhier Community Centre October 13 to December 23": {
     "link": "https://reservation.frontdesksuite.ca/rcfs/routhiercc",
     "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/routhier-community-centre",
     "address": "172 Guigues Avenue Ottawa ON K1N 5H9",
@@ -419,6 +419,14 @@
     "Tuesday": [
       "9:30 - 10:30 am (Pickleball - adult)",
       "10:30 - 11:30 am (Pickleball - adult)"
+    ],
+    "Thursday": [
+      "9:30 - 10:30 am (Pickleball - adult)*",
+      "10:30 - 11:30 am (Pickleball - adult)*"
+    ],
+    "Saturday": [
+      "9:15 - 10:15 am (Pickleball - adult)*",
+      "10:15 - 11:15 am (Pickleball - adult)*"
     ]
   },
   "South Fallingbrook Community Centre September 12 to December 20": {
