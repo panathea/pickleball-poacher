@@ -34,7 +34,7 @@
       "lon": "-75.4633271"
     },
     "Monday": [
-      "7:10 - 8:10 am (Pickleball Intermediate 50+)*",
+      "7:10 - 8:10 am (Pickleball Intermediate 50+)",
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
       "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
@@ -46,7 +46,7 @@
       "8 - 9 pm (Pickleball - Intermediate 16+)"
     ],
     "Tuesday": [
-      "7:10 - 8:10 am (Pickleball 50+)*",
+      "7:10 - 8:10 am (Pickleball 50+)",
       "8:20 - 9:20 am (Pickleball 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
       "11:50 am - 12:50 pm (Pickleball Intermediate 50+)",
@@ -54,7 +54,7 @@
       "2:10 - 3:10 pm (Pickleball Intermediate 50+)"
     ],
     "Wednesday": [
-      "7:10 - 8:10 am (Pickleball Intermediate 50+)*",
+      "7:10 - 8:10 am (Pickleball Intermediate 50+)",
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
       "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
@@ -63,7 +63,7 @@
       "2:10 - 3:10 pm (Pickleball 50+)"
     ],
     "Thursday": [
-      "7:10 - 8:10 am (Pickleball Intermediate 50+)*",
+      "7:10 - 8:10 am (Pickleball Intermediate 50+)",
       "8:20 - 9:20 am (Pickleball Intermediate 50+)",
       "9:30 - 10:30 am (Pickleball Intermediate 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
@@ -71,7 +71,7 @@
       "1 - 2 pm (Pickleball 50+)"
     ],
     "Friday": [
-      "7:10 - 8:10 am (Pickleball 50+)*",
+      "7:10 - 8:10 am (Pickleball 50+)",
       "8:20 - 9:20 am (Pickleball 50+)",
       "9:30 - 10:30 am (Pickleball 50+)",
       "10:40 - 11:40 am (Pickleball 50+)",
@@ -255,50 +255,6 @@
       "2:30 - 3:30 pm (Pickleball)",
       "3:30 - 4:30 pm (Pickleball)",
       "4:30 - 5:30 pm (Pickleball)"
-    ]
-  },
-  "Overbrook Community Centre August 31 to November 4": {
-    "link": "https://reservation.frontdesksuite.ca/rcfs/overbrookcc",
-    "home": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/overbrook-community-centre",
-    "address": "33 Quill Street Ottawa ON K1K 4E7",
-    "coordinates": {
-      "lat": "45.4254727",
-      "lon": "-75.6568470"
-    },
-    "Monday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Tuesday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Wednesday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Thursday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
-    ],
-    "Friday": [
-      "9 - 10 am (Pickleball)",
-      "10 - 11 am (Pickleball)",
-      "11 am - 12 pm (Pickleball)",
-      "12 pm - 1 pm (Pickleball)",
-      "1 - 2 pm (Pickleball)"
     ]
   },
   "Overbrook Community Centre November 5 to December 22": {
